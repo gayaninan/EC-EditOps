@@ -1,0 +1,3 @@
+bart-basev12noisebart-with-asr-noise-del-0.5-gcd
+baseline wer: 0.47643979057591623
+wer: 0.4781849912739965

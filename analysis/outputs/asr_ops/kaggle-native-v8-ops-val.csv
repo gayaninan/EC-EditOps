@@ -1,0 +1,284 @@
+sentence_num,ref,hyp,sub,sub_count,del,del_count,ins,ins_count,nochange
+1,when i get up i see my  skin vague,when i get up i see my knees  ache,skin -> knees; vague -> ache,2,,0,,0,7
+2,my knee is hurting so badly,my knee is hurting so   bad,badly -> bad,1,,0,,0,5
+3,every time i look to *** left i feel a sharp pain in my neck,every time i look to the left i feel a sharp pain in my ****,,0,neck,1,the,1,13
+4,i was travelling by * ship and i feel dizzy,i was  traveling by a ship and i feel dizzy,travelling -> traveling,1,,0,a,1,8
+5,i have a blurry vision and i cant see in the darkness what is the reason doctor,i have * blurry vision and i cant see in the darkness what is the reason doctor,,0,a,1,,0,16
+6,i  do not know why i feel cold,i don   t know why i feel cold,do -> don; not -> t,2,,0,,0,6
+7,the nerves were so damaged during the * operation on my ankle that i cannot stand being touched on the scar,the nerves were so damaged during the a operation on my ankle that i cannot stand being touched on the scar,,0,,0,a,1,20
+8,i have muscle pain at my left leg,i have muscle pain in my left leg,at -> in,1,,0,,0,7
+9,i had * alot of exercise yesterday so i feel sharp muscle pains,i had a  lot of exercise yesterday so i feel sharp muscle pains,alot -> lot,1,,0,a,1,11
+10,when i extend my leg there is pain in *** knee joint,when i extend my leg there is pain in the knee joint,,0,,0,the,1,11
+11,i have a great stomach ache and i cant eat      any thing,i have a great stomach ache and i cant eat anything *****,any -> anything,1,thing,1,,0,10
+12,had i stepped on a needle it wouldnt have hurt so much like this damned spur in my heel,had i stepped on a needle it wouldnt have hurt so much like this    dam spur in my heel,damned -> dam,1,,0,,0,18
+13,i have some pain when im walking around my knees,i have some pain when im walking around my  knee,knees -> knee,1,,0,,0,9
+14,i cut myself and im bleeding ***,i cut myself and im bleeding now,,0,,0,now,1,6
+15,my hair is coming out in chunks especially when i wash it,my hair is coming out in chunks especially when i wash **,,0,it,1,,0,11
+16,there are * lots of hairs on my pillow in the morning,there are a  lot of  hair on my pillow in the *******,lots -> lot; hairs -> hair,2,morning,1,a,1,8
+17,i have   a head pain every single day,i have had **** pain every single day,a -> had,1,head,1,,0,6
+18,when i play sports i have some burning sensation in my spine,when i play sports i have some burning sensation in my spins,spine -> spins,1,,0,,0,11
+19,i have a dull ache in my stomach it gets worse after i eat,i have a dull acne in my stomach it gets worse after i eat,ache -> acne,1,,0,,0,13
+20,i cant hear out of my ear properly i feel like there is something  in  it causing irritation,i cant hear out of my ear properly i feel like there is something and its   cause irritation,in -> and; it -> its; causing -> cause,3,,0,,0,15
+21,i have a sharp pain in my lower stomach,i have a sharp pain in my lower *******,,0,stomach,1,,0,8
+22,it feels like my heart is going to leap out of my body it hurts,it feels like my heart is going to leak out of my body to *****,leap -> leak; it -> to,2,hurts,1,,0,12
+23,is my cut infected or just healing,is my gut infected or just healing,cut -> gut,1,,0,,0,6
+24,my knee feels weak and it gave way the other day at the top of the stairs luckily there was a rail to hold on to,my knee feels weak and it give way the other day at the top of the  surge luckily there was a rail to hold on to,gave -> give; stairs -> surge,2,,0,,0,24
+25,mr hair is falling out just by combing it,my hair is falling out just by combing it,mr -> my,1,,0,,0,8
+26,my heart is pumping fast and * im having a hard time to  breath,my heart is pumping fast and i am having a hard time to breathe,im -> am; breath -> breathe,2,,0,i,1,11
+27,i think theres fluid in my ears,i think theres fluid in my  ear,ears -> ear,1,,0,,0,6
+28,i hit myself and the would doesnt want to heal,i eat myself and the  good doesnt want to  eat,hit -> eat; would -> good; heal -> eat,3,,0,,0,7
+29,after eating i have burning sensation inside of me,after eating i have burning sensation inside of my,me -> my,1,,0,,0,8
+30,my acne is really  embarassing its so read,my acne is really embarrassing its so   we,embarassing -> embarrassing; read -> we,2,,0,,0,6
+31,my sore ** isnt healing well and its been like this for two weeks,my sore is  not healing well and its been like this for two weeks,isnt -> not,1,,0,is,1,12
+32,my head hurts in the back and the pain lasts all day,my head hurts in the back and the pain lasts all ***,,0,day,1,,0,11
+33,i have a rash and it itches very bad,i have a rash and it    its very bad,itches -> its,1,,0,,0,8
+34,my husband left me  for another woman my heart hurts so badly to the point i cant eat or sleep,my husband left me from another woman my heart hurts so badly to the point i cant eat or sleep,for -> from,1,,0,,0,19
+35,when im driving my eyes see in double,when im driving my    i  cs in    dub,eyes -> i; see -> cs; double -> dub,3,,0,,0,5
+36,it  itches inside my ears,it ditches inside my ears,itches -> ditches,1,,0,,0,4
+37,is pimples  a skin disease,is pimples or skin disease,a -> or,1,,0,,0,4
+38,when i eat sugar i  notice my vision    blurs,when i eat sugar i noticed my vision blurring,notice -> noticed; blurs -> blurring,2,,0,,0,7
+39,i get chills and aches all over,i get chills and  acne all over,aches -> acne,1,,0,,0,6
+40,after playing tennis i had a powerful sensation close to my  neck,after playing tennis i had a powerful sensation close to my ankle,neck -> ankle,1,,0,,0,11
+41,i cannot get warm no matter how much i wrap up or how high i put the heating on,i   cant get **** no matter how much i wrap ** or how    i i put the heating on,cannot -> cant; high -> i,2,warm; up,2,,0,15
+42,my hair is falling out in bunches,my hair is falling out in    bung,bunches -> bung,1,,0,,0,6
+43,my shoulder hurts when i try to reach something above my head,my shoulder hurts when i try to  read something above my hand,reach -> read; head -> hand,2,,0,,0,10
+44,i knocked my foot and it really hurts,i knocked my foot and it really  hurt,hurts -> hurt,1,,0,,0,7
+45,even though im an adult ** my **** face keeps breaking out in pimples,even though  i am adult to my feet   it keeps breaking out in pimples,im -> i; an -> am; face -> it,3,,0,to; feet,2,9
+46,when im tired i feel my  head heavy,when im tired i feel my heart *****,head -> heart,1,heavy,1,,0,6
+47,my skin is very dry and peeling,my skin is very dry and    peel,peeling -> peel,1,,0,,0,6
+48,i have a dull  ache in my lower back which makes it difficult to move,i have a dull latch in my lower back which makes it difficult to move,ache -> latch,1,,0,,0,14
+49,**** theres swelling in my neck and it hurts,they    are swelling in my neck and it hurts,theres -> are,1,,0,they,1,7
+50,my sore looks like its not healing well,my sore looks like  im not  eating well,its -> im; healing -> eating,2,,0,,0,6
+51,i have a pain that radiates up from my right hip to my rib cage it is   at its worst when i urinate,i have a pain that radiates up from my right hip to my rib cage it is that  it   was when i *******,at -> that; its -> it; worst -> was,3,urinate,1,,0,19
+52,my knees seem to grind as i go up or       down stairs,my knees seem to grind as i go up on downstairs ******,or -> on; down -> downstairs,2,stairs,1,,0,9
+53,my acne itches and oozes,my acne    its and  goes,itches -> its; oozes -> goes,2,,0,,0,3
+54,my stomach feels full and upset and bloating after big meals,my stomach feels full and upset and bloating after  we *****,big -> we,1,meals,1,,0,9
+55,my knees swell right below the    knee cap and hurt when i put weight on them,my knees swell right below the kneecap *** and hurt when i put weight on them,knee -> kneecap,1,cap,1,,0,14
+56,i had * alot of exercise yesterday so i feel sharp muscle pains,i had a  lot of exercise yesterday so i feel sharp muscle pains,alot -> lot,1,,0,a,1,11
+57,i have pain but i cant specify  place,i have pain but i cant specify please,place -> please,1,,0,,0,7
+58,i need a kind of cream  wich make my muscles more relaxed,i need a kind of cream which make my muscles more relaxed,wich -> which,1,,0,,0,11
+59,the nerves were so damaged during the operation on my ankle that i cannot stand being touched on the scar,the nerves were so damaged during the operation of my ankle that i cannot stand being touched on the scar,on -> of,1,,0,,0,19
+60,i have an     ear ache when showering,i have an earache **** when showering,ear -> earache,1,ache,1,,0,5
+61,i used to be out of breath after going up a dozen of stairs but now i struggle to  breath even when i sit down,i used to be out of breath after going up a dozen of stairs but now i struggle to breathe even when i sit down,breath -> breathe,1,,0,,0,24
+62,i have a problem in the expiration because i have * abronchial asthma,i have a problem in the expiration because i have a  bronchial asthma,abronchial -> bronchial,1,,0,a,1,11
+63,when i sneeze very hard i feel     ear ache,when i sneeze very hard i feel earache ****,ear -> earache,1,ache,1,,0,7
+64,i read a book for * along time and when i finished reading i feel     head ache,i read a book for a  long time and when i finished reading i feel headache ****,along -> long; head -> headache,2,ache,1,a,1,13
+65,there is a red stain in my skin,d is a red stain in my skin,there -> d,1,,0,,0,7
+66,i have disterbance in my emotion,i have disturbance in my emotion,disterbance -> disturbance,1,,0,,0,5
+67,stiffness *** inability to look right or left except by moving the whole body,stiffness and   ability to look right or left except by moving the whole body,inability -> ability,1,,0,and,1,12
+68,*** anytime i play tennis i feel a shoulder pain,any    time i play tennis i feel a shoulder pain,anytime -> time,1,,0,any,1,8
+69,when get up i found that i have a stomach ache and i tried to take medecine but my stomach ** still hurting me,when get up i found that i have a stomach ache and i tried to take medicine but my stomach is still hurting me,medecine -> medicine,1,,0,is,1,22
+70,i feel like the room is spinning,i feel like the room is  pending,spinning -> pending,1,,0,,0,6
+71,there feels like a swollen knot at my ******** shoulderblade with pain shooting from that,there feels like a swollen knot at my shoulder         blade with pain  showing from that,shoulderblade -> blade; shooting -> showing,2,,0,shoulder,1,12
+72,i am always cold even when i am wearing layers,i am always cool **** **** i am wearing     la,cold -> cool; layers -> la,2,even; when,2,,0,6
+73,had i stepped on a needle it wouldnt have hurt so much like this damned spur in my heel,had i stepped on a needle it wouldnt have hurt so much like this   damn spur in my heel,damned -> damn,1,,0,,0,18
+74,when my       grand father died i felt a hard emotional pain,when my grandfather ****** died i felt a hard emotional pain,grand -> grandfather,1,father,1,,0,9
+75,i have a neck pain when i sit ** infront of my laptop,i have a neck pain when i sit in   front of my laptop,infront -> front,1,,0,in,1,11
+76,my muscles  in my lower back are aching,my muscles and my lower back are aching,in -> and,1,,0,,0,7
+77,i cant see well,i  can see well,cant -> can,1,,0,,0,3
+78,even though * im an adult my face keeps breaking out in pimples,even though i am an adult my face keeps breaking out in pimples,im -> am,1,,0,i,1,11
+79,my head hurts and i lose the sensation in my face then lose sight in my eye,my head hurts and i lost the sensation in my face then lost sight in my eye,lose -> lost; lose -> lost,2,,0,,0,15
+80,* im having a hard time hearing,i am having a hard time hearing,im -> am,1,,0,i,1,5
+81,i cut my finger opening a can it wont stop bleeding and the wound is  gaping and open,i cut my finger opening a can it wont stop bleeding and the wound is gapping and open,gaping -> gapping,1,,0,,0,17
+82,i had a cut that was stitched together but it is not healing it is oozing green puss and burns,i had a cut that was     tied together but it is not healing it is oozing green  pus and    bs,stitched -> tied; puss -> pus; burns -> bs,3,,0,,0,17
+83,i think ***** theres something wrong with my wound it   does not seem to heal like it should,i think there     is something wrong with my wound it doesnt *** seem to heal like it should,theres -> is; does -> doesnt,2,not,1,there,1,14
+84,when i stand up too quick my vision is blurry,when i stand up  to   pee my vision is blurry,too -> to; quick -> pee,2,,0,,0,8
+85,when i stand up too quickly i feel as though * im going to faint,when i stand up too quickly i feel as though i am going to faint,im -> am,1,,0,i,1,13
+86,my heart is beating fast and it scares me,my heart is beating fine and it scares me,fast -> fine,1,,0,,0,8
+87,my sore looks like its not healing well,my   so looks like its not healing well,sore -> so,1,,0,,0,7
+88,when i eat too much sugar my body gets weak and dizzy,when i eat too much sugar my body gets weak and    di,dizzy -> di,1,,0,,0,11
+89,i noticed an important decrease in my vision when i try to look at things up close,i  notice an important decrease in my vision when i try to look at things up close,noticed -> notice,1,,0,,0,16
+90,i have a foot ache although i dont walk a lot,i have a foot   ae although i dont walk a lot,ache -> ae,1,,0,,0,10
+91,i have an     ear ache that wont go away i dont have a cold or headache or any other symptoms just an earache,i have an earache **** that wont go away i dont have a cold or headache or any other symptoms just an earache,ear -> earache,1,ache,1,,0,21
+92,sometimes i feel like a claw on my chest that leaves me breathless,sometimes i feel like a clot on my chest that leaves me breathless,claw -> clot,1,,0,,0,12
+93,the knee feels like it *** rusted and i suddenly cannot bend it anymore,the knee feels like it has rested and i suddenly cannot bend it anymore,rusted -> rested,1,,0,has,1,12
+94,i have internal pain whenever i come down with   a  cold,i have internal pain whenever i come down with the colds,a -> the; cold -> colds,2,,0,,0,9
+95,i was diagnosed with * ****** b12deficiency anemia which explains why i always felt  cold,i was diagnosed with b twelve    deficiency anemia which explains why i always felt colds,b12deficiency -> deficiency; cold -> colds,2,,0,b; twelve,2,11
+96,i feel like i **** * went to an  acupunctures practice and had one hundred needles in my shoulder,i feel like i want i went to an acupuncturist practice and had one hundred needles in my shoulder,acupunctures -> acupuncturist,1,,0,want; i,2,16
+97,when i think of my parents i feel * pain,when i think of my parents i feel a pain,,0,,0,a,1,9
+98,i had a cold the last time i travelled by plane and i still have a discomfort in my ears,i had a cold the last time i  traveled by plane and i still have a discomfort in my ears,travelled -> traveled,1,,0,,0,19
+99,my husband has a spot on his lip that he  though was cold sore but now it has broken open and leaks fluid all day,my husband has a spot on his lip that he thought was cold sore but now it has broken open and leaks fluid all day,though -> thought,1,,0,,0,24
+100,i am having problems seeing things feel like a cloud on my eyes everything is blurry,im ** having problems seeing things feel like a cloud on my eyes everything is blurry,i -> im,1,am,1,,0,14
+101,there is this pain that radiates from my chest up to my left arm,theres ** this pain that radiates from my chest up to my left arm,there -> theres,1,is,1,,0,12
+102,my     ear ache when im listening to music,my earache **** when im listening to music,ear -> earache,1,ache,1,,0,6
+103,i  hve cut my finger because of playing football and i to apply pain relief cream but it does not help,i have cut my finger because of playing football and i do apply pain relief cream but it does not help,hve -> have; to -> do,2,,0,,0,19
+104,i dont have problems taking in breath but out breath is so heavy,i dont have problems taking  a breath but out breath is so heavy,in -> a,1,,0,,0,12
+105,i have a pain in my trapes,i have a pain in my tropes,trapes -> tropes,1,,0,,0,6
+106,when i get up i see my skin vague,when i get up i see my skin   bag,vague -> bag,1,,0,,0,8
+107,i often get a stomach ache after i eat i havent been able to pinpoint which foods might be the trigger,i often get a stomach ache after i eat i havent been able to pinpoint which foods   may be the trigger,might -> may,1,,0,,0,20
+108,i feel discomfort **** throughout the body in general,i feel discomfort drop        out the body in general,throughout -> out,1,,0,drop,1,7
+109,i have difficulty **** moving my neck,i have difficulty more     in my neck,moving -> in,1,,0,more,1,5
+110,i  get clusters of pimples on my face  that   never  go away,i gave      lot of  people on my face thats another way ****,get -> gave; clusters -> lot; pimples -> people; that -> thats; never -> another; go -> way,6,away,1,,0,5
+111,i was kicked in the head playing soccer last night,i  go   kick in the head playing    out last night,was -> go; kicked -> kick; soccer -> out,3,,0,,0,7
+112,when i do hard exercises i feel great pain in my muscles,when i do hard  exercise i feel great pain in my muscles,exercises -> exercise,1,,0,,0,11
+113,i  cut my hand a couple of days ago and although i didnt think i needed it stitches  it hasnt closed up,i took my hand * ****** ** **** *** and     also i ***** think i   need it       it has  been closed up,cut -> took; although -> also; needed -> need; stitches -> it; it -> has; hasnt -> been,6,a; couple; of; days; ago; didnt,6,,0,10
+114,whenever i stand up i feel dizzy,whenever i stand up i feel  this,dizzy -> this,1,,0,,0,6
+115,i have acne all over my face,i have neck all over my face,acne -> neck,1,,0,,0,6
+116,i feel dizzy after doing a ** muscular effort,i feel  this after doing a mu       at    all,dizzy -> this; muscular -> at; effort -> all,3,,0,mu,1,5
+117,i feel like l fell in hot water,i feel like i fell in hot water,l -> i,1,,0,,0,7
+118,i may have overdone it with the ****** weightlifting because i am afraid i may have torn a muscle on my back,i may have overdone it with the weight       lifting because i am afraid i may have torn a muscle on my back,weightlifting -> lifting,1,,0,weight,1,20
+119,i had internal pain and  gases when i ate indian spicy food yesterday,i had internal pain and gasses when i ate indian spicy food yesterday,gases -> gasses,1,,0,,0,12
+120,there is a sharp pain in my bicep i have tried to apply pain relief cream but it does not help,there is a sharp pain in my bicep i have tried to apply **** relief cream but it does not help,,0,pain,1,,0,20
+121,sometimes my body feels week without reason,sometimes my body feels weak without reason,week -> weak,1,,0,,0,6
+122,my knee catches and hurts when i first stand up after sitting,my knee touches and hurts when i first stand up after sitting,catches -> touches,1,,0,,0,11
+123,my ankle joint  throbs when i put pressure on my foot,my ankle joint throats when i put pressure on my foot,throbs -> throats,1,,0,,0,10
+124,in **** highschool i had a lot of acne,in high     school i had a lot of acne,highschool -> school,1,,0,high,1,7
+125,i have a red rash that is   itchy on my skin,i have a red rash that is itching on my skin,itchy -> itching,1,,0,,0,10
+126,my foot  had been aching since last tuesday,my foot have been aching since last tuesday,had -> have,1,,0,,0,7
+127,longitudinal burning line across back with hard respiratory movements,longitudinal burning line across back with **** respiratory movements,,0,hard,1,,0,8
+128,my hair always falls out and i have lost a lot of hair lately,my hair always falls out and i have lost a lot of hair weight,lately -> weight,1,,0,,0,13
+129,i feel cold when the night comes,i feel cold when  it ***** comes,the -> it,1,night,1,,0,5
+130,there are times when i feel crushed under a huge weight and no air passing to my lungs it actually scares the hell out of me when it happens,there are times when i feel crushed under a huge    way and no air  coming to my lungs it actually scares the hell out of me when it happens,weight -> way; passing -> coming,2,,0,,0,27
+131,i feel pain inside and i    can not identify it,i feel pain inside and i cannot *** identify it,can -> cannot,1,not,1,,0,8
+132,im not hearing well i have * problem with my ear,im not hearing well i have a problem with my ear,,0,,0,a,1,10
+133,the worst headache was during a hangover in my twenties i sincerely thought i was going to die from brain inflammation,the worst headache was during a hangover in my twenties i sincerely thought i was going to die from brain    formation,inflammation -> formation,1,,0,,0,20
+134,i have a  migrain and i took panadol but it **** doesn√ït help,i have a migraine and i take ******* but it does      not help,migrain -> migraine; took -> take; doesn√ït -> not,3,panadol,1,does,1,8
+135,every time i make an effort i felt dizzy,every time i make an effort i feel dizzy,felt -> feel,1,,0,,0,8
+136,my chest hurts when i  go to take a breath,my chest hurts when i got to take a breath,go -> got,1,,0,,0,9
+137,i feel a pain in my back,i feel * pain in my back,,0,a,1,,0,6
+138,my foot is hurting so much,** **** is hurting so much,,0,my; foot,2,,0,4
+139,i used * alot of pain killer to get better but i still feel the same back pain,i used a  lot of pain killer to get better but i still have the same back pain,alot -> lot; feel -> have,2,,0,a,1,15
+140,i feel a great pain in my shoulder joint and it does not go away,i feel a grade pain in my shoulder joint and it does not go away,great -> grade,1,,0,,0,14
+141,my body feels like its in   a refrigerator,my body feels like its in the refrigerator,a -> the,1,,0,,0,7
+142,my  kee is swallowing which indicates **** i have an infected wound,my knee is swallowing which indicates that i have an infected wound,kee -> knee,1,,0,that,1,10
+143,im very worried that ill  go bald soon am i very sick,im very worried    i got val  and **** am i very sick,that -> i; ill -> got; go -> val; bald -> and,4,soon,1,,0,7
+144,i feel like i can hardly breathe unless i get whats in my lungs out,i feel **** i can hardly breathe unless i get whats in my lungs out,,0,like,1,,0,14
+145,i have a problem in my middle ear made by infection,i have a problem in my middle ear **** ** infection,,0,made; by,2,,0,9
+146,i hardly have enough  stength to get up,i hardly have enough strength to get up,stength -> strength,1,,0,,0,7
+147,my throught is so sore,my   throat is so sore,throught -> throat,1,,0,,0,4
+148,********** sterilizer for the eye,sterilizes        are for the eye,sterilizer -> are,1,,0,sterilizes,1,3
+149,i cut my foot at the pool and it breaks open every day when i walk on it,i cut my foot at the pool and it breaks open every day when i walk in it,on -> in,1,,0,,0,17
+150,my heart hurts while im sad  why,my heart hurts while im sad what,why -> what,1,,0,,0,6
+151,everything looks like beeing in a smoky area,everything looks like  being in a smoky area,beeing -> being,1,,0,,0,7
+152,i have found some issues in my skin and tried to use cream but it doesnt get better,i have found some issues in my skin and   try to use cream but it doesnt get better,tried -> try,1,,0,,0,17
+153,my shoulder aches when i try to lift five pounds,my shoulder aches when i try to lift five    lbs,pounds -> lbs,1,,0,,0,9
+154,sterilizer for the eye,sterilize for the eye,sterilizer -> sterilize,1,,0,,0,3
+155,i feel pain inside and i    can not identify it,i feel pain inside and i cannot *** identify it,can -> cannot,1,not,1,,0,8
+156,my throught is so sore,my   throat is so sore,throught -> throat,1,,0,,0,4
+157,i have a back pain since i turned   seventy years old,i have a back pain since i turned seventeen years old,seventy -> seventeen,1,,0,,0,10
+158,everything looks like beeing in a smoky area,everything looks like  being in a smoky area,beeing -> being,1,,0,,0,7
+159,i feel like l fell in hot water,i feel like i fell in hot water,l -> i,1,,0,,0,7
+160,i cant walk well i have an  ache in my foot,i cant walk well i have an eight in my foot,ache -> eight,1,,0,,0,10
+161,i may have overdone it with the ****** weightlifting because i am afraid i may have torn a muscle on my back,i may have overdone it with the weight       lifting because i am afraid i may have torn a muscle on my back,weightlifting -> lifting,1,,0,weight,1,20
+162,i  notice a lot more hair coming out than usual when i brush my hair,i noticed a lot more hair coming out than usual when i brush my hair,notice -> noticed,1,,0,,0,14
+163,my ankle joint throbs when i put pressure on my foot,my ankle joint  hurts when i put pressure on my foot,throbs -> hurts,1,,0,,0,10
+164,my hair always falls out and   i have lost a lot of hair lately,my hair always falls out and ive **** lost a lot of hair lately,i -> ive,1,have,1,,0,12
+165,i have a  migrain and i took panadol but it doesn√ït help,i have a migraine and i took panadol but it   doesnt help,migrain -> migraine; doesn√ït -> doesnt,2,,0,,0,10
+166,my shoulder aches when i try to lift five pounds,my shoulder aches when i try to lift five    lbs,pounds -> lbs,1,,0,,0,9
+167,i have a  hard pain in my stomach,i have a heart pain in my stomach,hard -> heart,1,,0,,0,7
+168,my head is so heavy * cant think normally,my head is so heavy i cant think normally,,0,,0,i,1,8
+169,i feel that ***** is great pain in my left shoulder,i feel that there is great pain in my left shoulder,,0,,0,there,1,10
+170,i feel dizzy when i **** set infront of my laptop for an hour or two what possibly could be the reason,i feel dizzy when i step  in   front of my laptop for an hour or two what possibly could be the reason,set -> in; infront -> front,2,,0,step,1,19
+171,i am having running nose,i am having   runny nose,running -> runny,1,,0,,0,4
+172,i felt my heart hurts when i ran for * along distance,i feel my heart hurts when i run for a  long distance,felt -> feel; ran -> run; along -> long,3,,0,a,1,8
+173,i have a mental suffering,i have * mental suffering,,0,a,1,,0,4
+174,sometimes when  it is cold outside my face hurts especially around the pimples that are ready to pop,sometimes when its ** cold outside my face hurts especially around the pimples that are ready to pop,it -> its,1,is,1,,0,16
+175,i feel like i went to an  acupunctures practice and had one hundred needles in my shoulder,i feel **** i went to an acupuncturist practice and had one hundred needles in my shoulder,acupunctures -> acupuncturist,1,like,1,,0,15
+176,my neck is annoying me i cant sleep bacause of it,my neck is annoying me i cant sleep because of it,bacause -> because,1,,0,,0,10
+177,i have a great stomach ache and i cant eat      any thing,i have a great stomach ache and i cant eat anything *****,any -> anything,1,thing,1,,0,10
+178,i ****** have shooting pain in my **** kneecap after working out,i should have     been **** in my knee     cap after working out,shooting -> been; kneecap -> cap,2,pain,1,should; knee,2,7
+179,i   have acne in my face and other problema in my derma like itching,i arthri **** in my face and other  problem in my derma like itching,have -> arthri; problema -> problem,2,acne,1,,0,11
+180,my daughter had her *** eyebrows threaded and it **** pulled an opening of skin in one of her brows that is now puffy and oozing,my daughter had her age    brown       3d and it pull     it on opening of skin in one of her bones that is  no   diy and   izzy,eyebrows -> brown; threaded -> 3d; pulled -> it; an -> on; brows -> bones; now -> no; puffy -> diy; oozing -> izzy,8,,0,age; pull,2,16
+181,yesterday i had a  shouder pain,yesterday i had a shoulder pain,shouder -> shoulder,1,,0,,0,5
+182,i have a  ear ache when i go to the pool,i have a rake **** when i go to the pool,ear -> rake,1,ache,1,,0,9
+183,** i have a throbbing in my joints,uh i have a throbbing in my joints,,0,,0,uh,1,7
+184,i have a hard muscle pain since i went to the gym,i have a  had muscle pain since i went to the gym,hard -> had,1,,0,,0,11
+185,i was diagnosed with pneumonia i cant  breath easily,he was diagnosed with pneumonia i  can breathe easily,i -> he; cant -> can; breath -> breathe,3,,0,,0,6
+186,i started taking swimming    lessons and i guess i ***  swallowed too much water through my nose because this sinusitis is killing me now,i started taking    three inhalation and i guess i was swallowing too much water through my nose because this   suicide is killing me now,swimming -> three; lessons -> inhalation; swallowed -> swallowing; sinusitis -> suicide,4,,0,was,1,19
+187,i have eruptions on my face that come and go,i have         s on my face that come and go,eruptions -> s,1,,0,,0,9
+188,i got ** acne when i ate    chili,i got up   me when i had cheating,acne -> me; ate -> had; chili -> cheating,3,,0,up,1,4
+189,i feel weak all *** over,i feel weak all all  day,over -> day,1,,0,all,1,4
+190,i usually have a bad cough when i get     flu,i usually have a bad cough when i get through,flu -> through,1,,0,,0,9
+191,i am having running nose,i am having   runny nose,running -> runny,1,,0,,0,4
+192,the crushing sensation on my heart leaves me breathless,the crushing sensation on my heart  leave me breathless,leaves -> leave,1,,0,,0,8
+193,i have a neck pain when i sit ** infront of my laptop,i have a neck pain when i sit in   front of my laptop,infront -> front,1,,0,in,1,11
+194,fell skull is cracked like nuts,fells   col ** cracked like nuts,fell -> fells; skull -> col,2,is,1,,0,3
+195,i love to garden but i get a terrible twinge in my lower back when i lean over,i love to garden but i get a terrible   pain in my lower back when i lean over,twinge -> pain,1,,0,,0,17
+196,i have a pain in ** my elbow joint,i have a pain in in my elbow joint,,0,,0,in,1,8
+197,my shoulder has * agreat pain,my shoulder has a  great pain,agreat -> great,1,,0,a,1,4
+198,stiffness inability to look right or left except by moving the whole body,stiffness inability to look right or left   exel by moving the whole body,except -> exel,1,,0,,0,12
+199,im not *** good im feeling so cold,im not god    i am feeling so  god,good -> i; im -> am; cold -> god,3,,0,god,1,4
+200,sometimes when it is cold outside my face hurts especially around the pimples that are ready to pop,sometimes when it is cold outside my face hurts especially around the pimples that are ready to  go,pop -> go,1,,0,,0,17
+201,i cant stand up or sit down i have a pain in my back *** that annoys me,i cant stand up or sit down i have a pain in my back and that annoys me,,0,,0,and,1,17
+202,when i move on my shoulder pain shoots down my  arm,when i move on my shoulder pain  shoot down my arms,shoots -> shoot; arm -> arms,2,,0,,0,9
+203,i got ** injured exercising,i got to  injure exercising,injured -> injure,1,,0,to,1,3
+204,i was watching tv and suddenly have blurry vision,i was watching tv and suddenly half better     be,have -> half; blurry -> better; vision -> be,3,,0,,0,6
+205,i feel a great pain in my shoulder when i try to lift something heavy,i feel a grave pain in my shoulder when i try to lift something heavy,great -> grave,1,,0,,0,14
+206,when i raise my hand i feel pain in my shoulder,when i raise my head i feel pain in my shoulder,hand -> head,1,,0,,0,10
+207,i was travelling by  ship and i feel dizzy,i was  traveling by shift and i feel dizzy,travelling -> traveling; ship -> shift,2,,0,,0,7
+208,my hair   isnt   well,my hair decent twelve,isnt -> decent; well -> twelve,2,,0,,0,2
+209,i have a  great stomach ache and ** i cant  eat any  thing,i have a really stomach ache and uh i  can hate spa change,great -> really; cant -> can; eat -> hate; any -> spa; thing -> change,5,,0,uh,1,7
+210,my neck is annoying me i cant sleep bacause of it,my neck is annoying me i cant sleep because of it,bacause -> because,1,,0,,0,10
+211,the warming system of my house is broken and  feel so cold,the warning system of my house is broken and feels ** cold,warming -> warning; feel -> feels,2,so,1,,0,9
+212,my nose is congested all the time and ***** theres this  gluey secretion in my throat that makes it impossible for me to sleep i often have to nap sitting down,my nose is congested all the time and there     is this gluing secretion in my throat that  make it impossible for me to sleep i often have to not     sit down,theres -> is; gluey -> gluing; makes -> make; nap -> not; sitting -> sit,5,,0,there,1,25
+213,i felt my heart hurts when i ran for * along distance,i felt my heart  hurt when i ran for a  long distance,hurts -> hurt; along -> long,2,,0,a,1,9
+214,i have a blurry vision and i cant see  in the darkness what is the reason doctor,i have a blurry vision and i cant see any *** darkness what is the reason doctor,in -> any,1,the,1,,0,15
+215,itch   at front and center of scalp,it just  from and center of    co,itch -> it; at -> just; front -> from; scalp -> co,4,,0,,0,3
+216,it is like i have a needle pushing through my heart,it is like i have a needle    push through my   arm,pushing -> push; heart -> arm,2,,0,,0,9
+217,*** when i stand up too quickly i start to feel dizzy and lightheaded,mhm when i stand up too quickly i start to feel dizzy and lightheaded,,0,,0,mhm,1,13
+218,i have terrible pain in my heart,i have terrible pain in my  arms,heart -> arms,1,,0,,0,6
+219,i feel something hurt me in taking breath and ** i cant take my breath,i feel something hurt me in taking breath and uh i cant take my breath,,0,,0,uh,1,14
+220,i feel dizzy when i *** set infront of my laptop for an hour or two what possibly could be the reason,i feel dizzy when i sat  in   front of my laptop for an hour or two what possibly could be the reason,set -> in; infront -> front,2,,0,sat,1,19
+221,there is    a sharp pain in my *** bicep,there is just heart pain in my big   cap,a -> just; sharp -> heart; bicep -> cap,3,,0,big,1,5
+222,severe pain in the ear,severe pain in the  er,ear -> er,1,,0,,0,4
+223,i cut my hand a couple of weeks ago and even  though i keep using an antibiotic cream its not getting better,i cut my head a couple of weeks ago and even through i keep using an      antic ***** its not getting better,hand -> head; though -> through; antibiotic -> antic,3,cream,1,,0,18
+224,there is a sharp pain in my calve,there is a sharp pain in my  clip,calve -> clip,1,,0,,0,7
+225,i can hardly ****** breathe,i can hardly breath    here,breathe -> here,1,,0,breath,1,3
+226,i get   i joint pain when i try to bend my leg or my arm,i get eye joint pain when i try to bend my leg or my arm,i -> eye,1,,0,,0,14
+227,when i remember  her i feel down,when i remember here i peel down,her -> here; feel -> peel,2,,0,,0,5
+228,i feel severe itching in the skin with redness,i feel server itching in the skin with redness,severe -> server,1,,0,,0,8
+229,i   cant breath because of cough,i cannot   bark because of porch,cant -> cannot; breath -> bark; cough -> porch,3,,0,,0,3
+230,my son got a tattoo several weeks ago and the skin around   it   is raised and hot and it looks infected,my son got a tattoo several weeks ago and the skin around each this   side and hot and it looks infested,it -> each; is -> this; raised -> side; infected -> infested,4,,0,,0,17
+231,i have a sharp pain in my ear,i have a sharp pain in my  er,ear -> er,1,,0,,0,7
+232,i feel pain in my joint after *** an injury in the last football match i played,i feel pain in my joint after and in   your in the last   twelve match i played,an -> in; injury -> your; football -> twelve,3,,0,and,1,13
+233,i *** toppled over while jumping to catch    the ball,i two  played over     w jumping to catch double ****,toppled -> played; while -> w; the -> double,3,ball,1,two,1,5
+234,my son **** nicked his neck with an old razor and that  spot has ** become inflamed and looks like it is ** ** infected,my son nice  skied had neck with an old roger and that sport has we   come inflamed and looks like it is it is       it,nicked -> skied; his -> had; razor -> roger; spot -> sport; become -> come; infected -> it,6,,0,nice; we; it; is,4,15
+235,i   cant stop coughing,i cannot stop    going,cant -> cannot; coughing -> going,2,,0,,0,2
+236,there is pain in my joints i    can not bear pain,there is pain in my   hand i cannot *** bear pain,joints -> hand; can -> cannot,2,not,1,,0,8
+237,i am worried how cold intolerant i am i am   always shivering even out in the sun,i am     all how cold      inter i am i am allergic shivering  avo out in the sun,worried -> all; intolerant -> inter; always -> allergic; even -> avo,4,,0,,0,13
+238,the wound  is still open,the   old age still open,wound -> old; is -> age,2,,0,,0,3
+239,i feel dizzy whenever i stand up,i feel dizzy    where i stand up,whenever -> where,1,,0,,0,6
+240,all of a sudden i felt dizzy when i stood up,all of a  sudan i felt dizzy when i stood up,sudden -> sudan,1,,0,,0,10
+241,red flushes accompanied with   itchy,red flashes accompanied with itching,flushes -> flashes; itchy -> itching,2,,0,,0,3
+242,my body feels weak after my first day in the gym why,my body feels weak after my first day in the  zy ***,gym -> zy,1,why,1,,0,10
+243,my wound opened up again,my   own opened up again,wound -> own,1,,0,,0,4
+244,i feel a great amount of **** pressure of my head,i peel a great amount of this      arm of my head,feel -> peel; pressure -> arm,2,,0,this,1,8
+245,i have a strong shoulder pain,i have a strong       up   in,shoulder -> up; pain -> in,2,,0,,0,4
+246,i stopped ** sports because i get injury from sports,i stopped it sports because i get injury from sports,,0,,0,it,1,9
+247,surgical    wounds    red firing pus painful and hot to the touch,surgical overspeed seeing   pass *** painful and hot to the touch,wounds -> overspeed; red -> seeing; firing -> pass,3,pus,1,,0,7
+248,i broke my ankle while   doing rock climbing in the ***** carpathians,* broke my ankle     w docking rock climbing in the artur       kings,while -> w; doing -> docking; carpathians -> kings,3,i,1,artur,1,7
+249,standing less than five minutes and my back start to  ache,standing less then five minutes and my back start to itchy,than -> then; ache -> itchy,2,,0,,0,9
+250,when i wake up in the morning i feel     a soreness in my body,when i wake up in the morning i feel sorry      for ** my body,a -> sorry; soreness -> for,2,in,1,,0,11
+251,i get an ear ache when it is cold,i get an  er    a when it is cold,ear -> er; ache -> a,2,,0,,0,7
+252,*  ive been feeling very sad lately,i have been feeling very sad lately,ive -> have,1,,0,i,1,5
+253,i have a great pain in my foot like thrombing pain with relaxing my pain releif,i have a great pain in my foot like  throwing pain with relaxing my pain relief,thrombing -> throwing; releif -> relief,2,,0,,0,14
+254,feels like there are pins and needles  sticking in my joints,pills like there are pens and needles streaking in my joints,feels -> pills; pins -> pens; sticking -> streaking,3,,0,,0,8
+255,my joints * ache whenever it is cold,my joints i  say whenever it is cold,ache -> say,1,,0,i,1,6
+256,it started as a *** **** tinnitus but today the pain ****   is throbbing and unbearable,its     ten as a you need       us but today the pain each thro     being and     unable,it -> its; started -> ten; tinnitus -> us; is -> thro; throbbing -> being; unbearable -> unable,6,,0,you; need; each,3,7
+257,i feel deep tingling when i touch acne followed by bad sensation,i peel deep tingling when i touch **** followed by bad sensation,feel -> peel,1,acne,1,,0,10
+258,i have a problem in my back i cannot extend it,i have a problem in my back i cannot  stand it,extend -> stand,1,,0,,0,10
+259,i never had any ** acne problem **** until my last pregnancy when all of a sudden my back got covered in zits,i never had any sn    a problem even until my last pregnancy when all of a  sudan my back got      co in jits,acne -> a; sudden -> sudan; covered -> co; zits -> jits,4,,0,sn; even,2,17
+260,every time i take a deep breath i start coughing,every time i talk a deep   bath i start  cooking,take -> talk; breath -> bath; coughing -> cooking,3,,0,,0,7
+261,when i walk its hard to  breath,when i walk its hard to breathe,breath -> breathe,1,,0,,0,6
+262,i have an indigestion,i have an  indication,indigestion -> indication,1,,0,,0,3
+263,my hair is falling out in *** huge amount,my hair is peeling out in hug   am    out,falling -> peeling; huge -> am; amount -> out,3,,0,hug,1,5
+264,it hurts when i bent my arm,i  hurt when i bend my arm,it -> i; hurts -> hurt; bent -> bend,3,,0,,0,4
+265,i made lots and lots of analysis to know the main reason for my stomach ache,i made lots and lots of analysis to know the main reason for my   stock ****,stomach -> stock,1,ache,1,,0,14
+266,i have a hair shortage,i have a head shoulder,hair -> head; shortage -> shoulder,2,,0,,0,3
+267,i cant  get a girlfriend because of my  acne,i  can have a girlfriend because of my ankle,cant -> can; get -> have; acne -> ankle,3,,0,,0,6
+268,my skin ***** is itching,my skin needs to  shrink,is -> to; itching -> shrink,2,,0,needs,1,2
+269,i fell a stiffness in my elbows and shoulders,i fell * ********* in my elbows and  shoulder,shoulders -> shoulder,1,a; stiffness,2,,0,6
+270,im suffering from sharp   cough accompanied   by phlegm,and suffering from shark company       being fire ******,im -> and; sharp -> shark; cough -> company; accompanied -> being; by -> fire,5,phlegm,1,,0,2
+271,i have * issue with my skin,i have a issue with my skin,,0,,0,a,1,6
+272,**** he was discovered to have an open wound,soss he was discovered to have an open wound,,0,,0,soss,1,8
+273,i suffered a deep wound in my hand and i    can not stop the bleeding,i suffered a deep wound in my hand and i cannot *** stop the bleeding,can -> cannot,1,not,1,,0,13
+274,is there a cure for   acne,is there a cure for cancer,acne -> cancer,1,,0,,0,5
+275,when i tried to take care if my hair i found that it is falling out,when i tried to take care of my hair i found that it is falling out,if -> of,1,,0,,0,15
+276,i hardly have enough  stength to get up,i hardly have enough strength to get up,stength -> strength,1,,0,,0,7
+277,i couldnt stop shaking or unclench my jaw **** thats how cold i was,i couldnt stop shaking or unclench my jaw that     s how cold i was,thats -> s,1,,0,that,1,12
+278,the knee feels like it rusted and i suddenly cannot bend it anymore,the knee feels like it rested and i suddenly cannot bend it anymore,rusted -> rested,1,,0,,0,12
+279,after playing football i have muscle pain with **** my both legs,after playing football i have muscle pain with both my **** legs,,0,both,1,both,1,10
+280,i noticed an important decrease in my vision when i   try to look at things up close,i noticed an important decrease in my vision when i tried to look at things up close,try -> tried,1,,0,,0,16
+281,i feel pain in my legs muscles after i ran yesterday i took some        pain killers but it doesnt help,i feel pain in my legs muscles after i ran yesterday i took some painkillers ******* but it doesnt help,pain -> painkillers,1,killers,1,,0,18
+282,i wake up with a stiff neck every morning massage helps but then a couple of days later ** its back again,i wake up with a stiff neck every morning massage helps but then a couple of days later it   s back again,its -> s,1,,0,it,1,20
+283,i used * alot of       pain killer to get better but i still feel the same back pain,i used a  lot of painkiller ****** to get better but i still feel the same back pain,alot -> lot; pain -> painkiller,2,killer,1,a,1,14

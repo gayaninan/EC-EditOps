@@ -1,0 +1,37 @@
+seed: 42
+#finetune
+pubmed_datapath: "test"
+subset: "del-0.5"
+pretrained_modelname: "facebook/bart-base"
+block_size: 128
+batch_size: 32
+colname: "trans"
+checkpoint_dir: "./ec-model1"
+overwrite_output_dir: True
+evaluation_strategy: "steps"
+save_strategy: "steps"
+num_train_epochs: 3
+per_device_train_batch_size: 16
+per_device_eval_batch_size: 16
+eval_steps: 500
+save_steps: 500
+warmup_steps: 10
+logging_steps: 10
+logging_dir: "./logs"
+push_to_hub: True
+fine_tuned_model: "gayanin/bart-with-asr-noise-del-0.5"
+# fine_tuned_model: "facebook/bart-base" #for baseline without fine-tuning
+fp16: True
+load_best_model_at_end: True
+save_total_limit: 5
+##generate
+generate_dir: "model_outputs/bart-base/v12/noise/" 
+gcd_datapath: "gayanin/gcd-native-v8-noise-op-wise"
+babylon_datapath: "gayanin/babylon-native-v8-noise-op-wise"
+kaggle_datapath: "gayanin/kaggle-native-v8-noise-op-wise"
+max_length: 128
+num_return_sequences: 1
+no_repeat_ngram_size: 2
+##testing
+eval_dir: "results/bart-base/v12/noise/"
+baseline: True

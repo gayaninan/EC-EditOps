@@ -1,0 +1,1307 @@
+sentence 3
+REF: i feel a **** ** boneonbone pain in my knees when i climb stairs
+HYP: i feel a bone on       bone pain in my knees when i climb stairs
+OPS: N    N N    I  I          S    N  N  N     N    N N     N      N
+
+sentence 5
+REF: i think ***** theres something wrong with my wound it does not seem to heal like it should
+HYP: i think there     is something wrong with my wound it does not seem to heal like it should
+OPS: N     N     I      S         N     N    N  N     N  N    N   N    N  N    N    N  N      N
+
+sentence 7
+REF: **    is  my cut infected or just healing
+HYP: it might get  in     fact or just healing
+OPS:  I     S   S   S        S  N    N       N
+
+sentence 12
+REF: i cut myself and * im bleeding
+HYP: i cut myself and i am bleeding
+OPS: N   N      N   N I  S        N
+
+sentence 13
+REF: when i eat too much sugar my body gets weak and dizzy
+HYP: when i  do  my **** sugar my body gets weak and dizzy
+OPS:    N N   S   S    D     N  N    N    N    N   N     N
+
+sentence 14
+REF: my head hurts and i lose the sensation in my face then lose sight in my eye
+HYP: my head hurts and i lose *** sensation in my face    i lose sight in my eye
+OPS:  N    N     N   N N    N   D         N  N  N    N    S    N     N  N  N   N
+
+sentence 16
+REF: i broke my ankle while doing rock climbing in *** ** the carpathians
+HYP: i broke my ankle while doing rock climbing in car at the         end
+OPS: N     N  N     N     N     N    N        N  N   I  I   N           S
+
+sentence 23
+REF: * im having a hard time hearing
+HYP: i am having a hard time hearing
+OPS: I  S      N N    N    N       N
+
+sentence 25
+REF: after walking i have some pain under my foot
+HYP: after walking i  had some pain under my foot
+OPS:     N       N N    S    N    N     N  N    N
+
+sentence 26
+REF: when i eat sugar i  notice my vision   blurs
+HYP: when i had sugar i noticed my vision blurred
+OPS:    N N   S     N N       S  N      N       S
+
+sentence 29
+REF: there is pain in my joints i    can not bear pain
+HYP: there is pain in my joints i cannot  be    a pain
+OPS:     N  N    N  N  N      N N      S   S    S    N
+
+sentence 31
+REF: i had a cut that was stitched together but it is not healing it is   oozing green puss and burns
+HYP: i had a cut that was stitched together but it is not healing it is bruising green  pus and burns
+OPS: N   N N   N    N   N        N        N   N  N  N   N       N  N  N        S     N    S   N     N
+
+sentence 33
+REF: my stomach feels full and upset and bloating after big meals
+HYP: my stomach feels full and upset and blotting after big meals
+OPS:  N       N     N    N   N     N   N        S     N   N     N
+
+sentence 36
+REF: my right shoulder clicks when i move my arm
+HYP: my right ******** ****** when i move my eye
+OPS:  N     N        D      D    N N    N  N   S
+
+sentence 37
+REF: i feel great pain in the head
+HYP: i feel great pain in the  hip
+OPS: N    N     N    N  N   N    S
+
+sentence 38
+REF: i   am worried how cold intolerant i am i am always shivering even out in the sun
+HYP: i dont    know how **** ********** * ** * ** ****** ********* **** *** ** *** ***
+OPS: N    S       S   N    D          D D  D D  D      D         D    D   D  D   D   D
+
+sentence 39
+REF: when i stand i feel dizzy i do not know why
+HYP: when i stand i feel dizzy i do not know ***
+OPS:    N N     N N    N     N N  N   N    N   D
+
+sentence 40
+REF: i  hit the ground when trying to shoot   a basketball
+HYP: i hate the ground when trying to    se the       room
+OPS: N    S   N      N    N      N  N     S   S          S
+
+sentence 41
+REF: my son *** nicked his neck with  an old razor and that spot has become inflamed and looks like it is infected
+HYP: my son and   nick  is  not with the *** ***** *** **** **** *** become     pain *** ***** **** ** ** ********
+OPS:  N   N   I      S   S    S    N   S   D     D   D    D    D   D      N        S   D     D    D  D  D        D
+
+sentence 42
+REF:   i feel fluid trying to come up when i cough
+HYP: and  she   was  going to **** ** **** * *****
+OPS:   S    S     S      S  N    D  D    D D     D
+
+sentence 43
+REF: i have dark spots on my skin
+HYP: i have that  spot on my skin
+OPS: N    N    S     S  N  N    N
+
+sentence 45
+REF: there is a sharp pain in my bicep
+HYP: there is a heart **** ** ** *****
+OPS:     N  N N     S    D  D  D     D
+
+sentence 46
+REF: i can hardly breathe
+HYP: i can hardly  breath
+OPS: N   N      N       S
+
+sentence 47
+REF: i have a problem in my back i cannot extend it
+HYP: i have a problem in my that i    can ****** **
+OPS: N    N N       N  N  N    S N      S      D  D
+
+sentence 48
+REF: my skin color on my back is   red i dont know why
+HYP: my skin color on my  bag is there i dont know ***
+OPS:  N    N     N  N  N    S  N     S N    N    N   D
+
+sentence 49
+REF: my hair is falling out in huge amount
+HYP: my head is  doctor *** ** **** ******
+OPS:  N    S  N       S   D  D    D      D
+
+sentence 50
+REF: my head is spinning when i get up
+HYP: my head is   saying **** * *** **
+OPS:  N    N  N        S    D D   D  D
+
+sentence 51
+REF: laceration    rupture or opening in the skin
+HYP:       yeah depression  a     lot of *** ****
+OPS:          S          S  S       S  S   D    D
+
+sentence 52
+REF: my son has a      lot of acne
+HYP: my son has a daughter ** ****
+OPS:  N   N   N N        S  D    D
+
+sentence 53
+REF: i have    a foot ache after running **** * 500m with my running shoes
+HYP: i work four days **** after running five m   uh with my running *****
+OPS: N    S    S    S    D     N       N    I I    S    N  N       N     D
+
+sentence 54
+REF: i feel back pain when i carry heavy things
+HYP: i feel back pain when i ***** ***** ******
+OPS: N    N    N    N    N N     D     D      D
+
+sentence 55
+REF: feels like there are pins and needles sticking in my joints
+HYP:   his like  that *** **** *** ******* ******** in ** ******
+OPS:     S    N     S   D    D   D       D        D  N  D      D
+
+sentence 56
+REF: i have a problem in seeing objects it is too difficult to see
+HYP: i have a problem  i      i ******* ** ** *** ********* ** see
+OPS: N    N N       N  S      S       D  D  D   D         D  D   N
+
+sentence 57
+REF: i feel like  the world goes round and round
+HYP: i know they wont    go   on there *** *****
+OPS: N    S    S    S     S    S     S   D     D
+
+sentence 58
+REF: *  ive tried reading books but nothing can cheer me up
+HYP: i have tried reading books but nothing can catch me up
+OPS: I    S     N       N     N   N       N   N     S  N  N
+
+sentence 59
+REF: my head hurts me badly
+HYP: my head   has my *****
+OPS:  N    N     S  S     D
+
+sentence 60
+REF: my son has a lot of acne
+HYP: my son has a lot of   it
+OPS:  N   N   N N   N  N    S
+
+sentence 61
+REF: it started as a  tinnitus but today the pain is throbbing and unbearable
+HYP:  i started as a dizziness but today the pain is    coming  on **********
+OPS:  S       N  N N         S   N     N   N    N  N         S   S          D
+
+sentence 62
+REF: i have     a foot ache   after running 500m with my running shoes
+HYP: i have short   as five hundred minutes **** **** ** running *****
+OPS: N    N     S    S    S       S       S    D    D  D       N     D
+
+sentence 63
+REF: there is a    constant tickle in my throat
+HYP: there is a concentrate ****** in me ******
+OPS:     N  N N           S      D  N  S      D
+
+sentence 64
+REF: my cough is very heavy and i have mucus
+HYP: my cough is very heavy *** i have cough
+OPS:  N     N  N    N     N   D N    N     S
+
+sentence 65
+REF: the feeling of coughing increases in winters reach
+HYP: the feeling of      the       the ** ******* *****
+OPS:   N       N  N        S         S  D       D     D
+
+sentence 66
+REF: i   wish this excruciating feeling of loss could go away
+HYP: i always  dis            a feeling of  the   cop ** ****
+OPS: N      S    S            S       N  N    S     S  D    D
+
+sentence 67
+REF: when i stand i feel dizzy i do not know why
+HYP: when i stand i **** ***** i ** *** know ***
+OPS:    N N     N N    D     D N  D   D    N   D
+
+sentence 68
+REF: my son nicked his neck with an old razor and that spot has become inflamed and looks like it     is infected
+HYP: my son   nick *** neck with an old razer *** that spot has become inflamed and looks like an insect ********
+OPS:  N   N      S   D    N    N  N   N     S   D    N    N   N      N        N   N     N    N  S      S        D
+
+sentence 69
+REF: i cannot bear this squeezing sensation i have in my chest
+HYP: i cannot wear that ********* ********* i have in my check
+OPS: N      N    S    S         D         D N    N  N  N     S
+
+sentence 70
+REF:  the arches of my feet hurt when i wear heels
+HYP: that    was on my feet hold   on * **** *****
+OPS:    S      S  S  N    N    S    S D    D     D
+
+sentence 71
+REF: my shoulder  is hurting me
+HYP: my       in the   heart **
+OPS:  N        S   S       S  D
+
+sentence 72
+REF:    i stopped sports because i get injury from sports
+HYP: that     for ****** because i can ****** from    for
+OPS:    S       S      D       N N   S      D    N      S
+
+sentence 73
+REF: i can hardly breathe
+HYP: i can hardly  breath
+OPS: N   N      N       S
+
+sentence 74
+REF: *  ive noticed my hair falling out a lot lately
+HYP: i have noticed my  ear  coming out a lot ******
+OPS: I    S       N  N    S       S   N N   N      D
+
+sentence 75
+REF: when i  stand up too quickly i start to feel dizzy and lightheaded
+HYP: when i turned up too quickly i   had to **** ***** *** ***********
+OPS:    N N      S  N   N       N N     S  N    D     D   D           D
+
+sentence 77
+REF: my right shoulder clicks when      i move my arm
+HYP: my right shoulder   keep   on moving **** ** ***
+OPS:  N     N        N      S    S      S    D  D   D
+
+sentence 78
+REF: pain in the large neck
+HYP: when in the  last time
+OPS:    S  N   N     S    S
+
+sentence 79
+REF: i feel    severe itching in the skin with redness
+HYP: i feel something ******* ** the skin with redness
+OPS: N    N         S       D  D   N    N    N       N
+
+sentence 80
+REF: i have a very  bad cough
+HYP: i have a  per head cough
+OPS: N    N N    S    S     N
+
+sentence 81
+REF: my hair is falling out in huge amount
+HYP: my hair is falling  up in here     so
+OPS:  N    N  N       N   S  N    S      S
+
+sentence 82
+REF: i toppled over while jumping  to catch the ball
+HYP: i thought   we  were jumping the    in the work
+OPS: N       S    S     S       N   S     S   N    S
+
+sentence 83
+REF: my skin color on my back is red i dont know why
+HYP: my skin color on my back in red i dont know ***
+OPS:  N    N     N  N  N    N  S   N N    N    N   D
+
+sentence 84
+REF: i feel back pain when i carry heavy things
+HYP: i feel that   in when i   hit ***** ******
+OPS: N    N    S    S    N N     S     D      D
+
+sentence 85
+REF: my son got a tattoo several weeks ago and the skin around it is raised and hot and it looks infected
+HYP: ** *** *** * ****** ******* ***** *** and the skin around it ** ****** *** *** *** ** ***** ********
+OPS:  D   D   D D      D       D     D   D   N   N    N      N  N  D      D   D   D   D  D     D        D
+
+sentence 86
+REF: i feel sad like hurt or pain
+HYP: i feel sad like hard ** ****
+OPS: N    N   N    N    S  D    D
+
+sentence 87
+REF: i think my wound is infected
+HYP: i think my     i do      too
+OPS: N     N  N     S  S        S
+
+sentence 89
+REF: i feel pain in my ears with tinnitus
+HYP: i feel pain in my ears with    fetus
+OPS: N    N    N  N  N    N    N        S
+
+sentence 90
+REF: i feel fluid trying to  come   up  when i cough
+HYP: i **** ***** trying to count your liver * *****
+OPS: N    D     D      N  N     S    S     S D     D
+
+sentence 91
+REF: i   cant work good i have a pain in my knee
+HYP: i cannot  but **** i have * pain in my knee
+OPS: N      S    S    D N    N D    N  N  N    N
+
+sentence 92
+REF: after   an hard working day i have foot ache
+HYP: other than hard walking day i have **** ****
+OPS:     S    S    N       S   N N    N    D    D
+
+sentence 93
+REF: feels like there are pins and needles sticking in my joints
+HYP:    is like there are  pen and needles    which is my  point
+OPS:     S    N     N   N    S   N       N        S  S  N      S
+
+sentence 94
+REF: ***** * **** i feel pain in my throat
+HYP: right i feel i feel pain in my throat
+OPS:     I I    I N    N    N  N  N      N
+
+sentence 95
+REF: there is a sharp pain in my bicep
+HYP: there is a ***** **** ** my bicep
+OPS:     N  N N     D    D  D  N     N
+
+sentence 96
+REF: my wound opened up again
+HYP: my   own   open my *****
+OPS:  N     S      S  S     D
+
+sentence 97
+REF: i *  hit the ground when trying to shoot      a basketball
+HYP: i i hate the ground  and trying so     i should       have
+OPS: N I    S   N      N    S      N  S     S      S          S
+
+sentence 98
+REF: i feel deep tingling when i touch acne followed   by  bad sensation
+HYP: i **** **** ******** when i   eat when      you were back *********
+OPS: N    D    D        D    N N     S    S        S    S    S         D
+
+sentence 99
+REF: my daughter had her ears pierced and one of her ear lobes is bright red and burning    hot
+HYP: my daughter had   a hair    past and one of her   a  love is bright red and burning cotton
+OPS:  N        N   N   S    S       S   N   N  N   N   S     S  N      N   N   N       N      S
+
+sentence 100
+REF: i have a sharp pain in my ear
+HYP: * have a sharp pain in my ear
+OPS: D    N N     N    N  N  N   N
+
+sentence 103
+REF:  there is a sharp pain in my calve
+HYP: theres ** a sharp pain in my skull
+OPS:      S  D N     N    N  N  N     S
+
+sentence 105
+REF: every morning when i wake up my neck feels like   i slept on  in  wrong
+HYP: every morning when i wake up my  leg feels like ive slept on the ground
+OPS:     N       N    N N    N  N  N    S     N    N   S     N  N   S      S
+
+sentence 106
+REF: i get i joint pain when i try to bend my leg or my arm
+HYP: i get * joint pain when i try to bend my leg or my arm
+OPS: N   N D     N    N    N N   N  N    N  N   N  N  N   N
+
+sentence 112
+REF: my son had his lip pierced and it is swollen and the skin inside on his lip is grey and looks infected
+HYP: my son had his lip pierced and it is swollen and the skin inside on his lip is gray and looks infected
+OPS:  N   N   N   N   N       N   N  N  N       N   N   N    N      N  N   N   N  N    S   N     N        N
+
+sentence 113
+REF: i have a problem in the expiration because i have * abronchial asthma
+HYP: i have a problem in the expiration because i have a  bronchial asthma
+OPS: N    N N       N  N   N          N       N N    N I          S      N
+
+sentence 114
+REF: there ** pain in my foot
+HYP: there is pain in my foot
+OPS:     N  I    N  N  N    N
+
+sentence 116
+REF: i read a book for * along time and when i finished reading i feel     head ache
+HYP: i read a book for a  long time and when i finished reading i feel headache ****
+OPS: N    N N    N   N I     S    N   N    N N        N       N N    N        S    D
+
+sentence 118
+REF: my son squeezed a pimple and it broke open only to scab over and now ** looks like it is infected
+HYP: my son squeezed a pimple and it broke open only to scab over and now it looks like it is infected
+OPS:  N   N        N N      N   N  N     N    N    N  N    N    N   N   N  I     N    N  N  N        N
+
+sentence 120
+REF: i feel depressed when i see my hair falling out
+HYP: * feel depressed when i see my hair falling out
+OPS: D    N         N    N N   N  N    N       N   N
+
+sentence 122
+REF: *** anytime i play tennis i feel a shoulder pain
+HYP: any    time i play tennis i feel a shoulder pain
+OPS:   I       S N    N      N N    N N        N    N
+
+sentence 129
+REF: i feel * strong pain in my knee after it was hit during the football match
+HYP: i feel a strong pain in my knee after it was hit during the football match
+OPS: N    N I      N    N  N  N    N     N  N   N   N      N   N        N     N
+
+sentence 131
+REF: cramps along the whole   abdomen
+HYP: cramps along the whole abdominal
+OPS:      N     N   N     N         S
+
+sentence 132
+REF: i feel deep tingling when i touch acne followed by bad sensation
+HYP: i feel  the tingling when i touch  air followed by  va   station
+OPS: N    N    S        N    N N     N    S        N  N   S         S
+
+sentence 134
+REF: i made lots and lots of analysis to know the main reason for my *** stomach ache
+HYP: i made lots and lots of analysis to know the main region for my too    much    h
+OPS: N    N    N   N    N  N        N  N    N   N    N      S   N  N   I       S    S
+
+sentence 135
+REF: all of a sudden i felt dizzy when i stood up
+HYP: all of a sudden i feel dizzy when i stood up
+OPS:   N  N N      N N    S     N    N N     N  N
+
+sentence 136
+REF: i have severe shoulder pain
+HYP: i have shaver shoulder pain
+OPS: N    N      S        N    N
+
+sentence 138
+REF: i broke my ankle while doing rock climbing in the ********* carpathians
+HYP: i broke my ankle while doing rock climbing in the carpenter         and
+OPS: N     N  N     N     N     N    N        N  N   N         I           S
+
+sentence 139
+REF:   i feel severe itching in the skin with redness
+HYP: eye feel shaver itching in the itin with redness
+OPS:   S    N      S       N  N   N    S    N       N
+
+sentence 141
+REF: my cut yellow or ******** greenishcolored pus
+HYP: ma *** yellow or greenish         colored was
+OPS:  S   D      N  N        I               S   S
+
+sentence 144
+REF: i am worried for my driving because i can barely focus when i am at the wheel my eyes feel teary
+HYP: i am worried for my driving because i can barely focus when i am at the whole my eyes feel teary
+OPS: N  N       N   N  N       N       N N   N      N     N    N N  N  N   N     S  N    N    N     N
+
+sentence 149
+REF: ****  my son got      a tattoo several weeks ago and the skin around it is raised and hot and it looks infected
+HYP: mice and  go  at attack     to several weeks ago and the been around it is raised and hot and it looks     infe
+OPS:    I   S   S   S      S      S       N     N   N   N   N    S      N  N  N      N   N   N   N  N     N        S
+
+sentence 151
+REF: i have a problem in seeing objects it is too difficult to see
+HYP: i have a problem in seeing objects it ** too difficult to see
+OPS: N    N N       N  N      N       N  N  D   N         N  N   N
+
+sentence 152
+REF: there is pain in my joints i    can  not bear pain
+HYP: there is pain in my joints i cannot wear **** pain
+OPS:     N  N    N  N  N      N N      S    S    D    N
+
+sentence 153
+REF: i have a great pain in my foot like thrombing pain with relaxing my pain releif
+HYP: i have a great pain in my foot like throbbing pain with relaxing my pain relief
+OPS: N    N N     N    N  N  N    N    N         S    N    N        N  N    N      S
+
+sentence 163
+REF: i travelled by plane a few days ago and this time during landing my ears remained clogged and painful
+HYP: i  traveled by plane a few days ago and this time during landing my ears remained clogged and painful
+OPS: N         S  N     N N   N    N   N   N    N    N      N       N  N    N        N       N   N       N
+
+sentence 164
+REF:  i m feeling cold though the temperature is high
+HYP: im * feeling cold though the temperature is high
+OPS:  S D       N    N      N   N           N  N    N
+
+sentence 167
+REF: i complain * alot with skin allergy
+HYP: i complain a  lot with skin allergy
+OPS: N        N I    S    N    N       N
+
+sentence 169
+REF: i feel increased heart rate with prick
+HYP: i feel increased heart rate with    pc
+OPS: N    N         N     N    N    N     S
+
+sentence 173
+REF: i tried * alot of cream but i still feel the same skin problem
+HYP: i tried a  lot of cream but i still feel the same skin problem
+OPS: N     N I    S  N     N   N N     N    N   N    N    N       N
+
+sentence 175
+REF: i feel hurt * lot of pain in my heart
+HYP: i feel hurt a lot of pain in my heart
+OPS: N    N    N I   N  N    N  N  N     N
+
+sentence 177
+REF: i have a foot ache in winter or when it feels cold why
+HYP: i have a foot   ae in winter or when it feels cold why
+OPS: N    N N    N    S  N      N  N    N  N     N    N   N
+
+sentence 198
+REF: my kneecap feels like it is grating bone on bone when i walk
+HYP: my kneecap feels like it is grading bone on bone when i walk
+OPS:  N       N     N    N  N  N       S    N  N    N    N N    N
+
+sentence 199
+REF: i have  throbing in my shoulder
+HYP: i have throbbing in my shoulder
+OPS: N    N         S  N  N        N
+
+sentence 208
+REF: i get chills and aches all over
+HYP: i get chills and itchy all over
+OPS: N   N      N   N     S   N    N
+
+sentence 211
+REF: when * im driving my eyes      see in double
+HYP: when i am driving my  ihc interval ** ******
+OPS:    N I  S       N  N    S        S  D      D
+
+sentence 216
+REF: i hit myself and the would doesnt want to heal
+HYP: i hit myself and the  boat doesnt want to heal
+OPS: N   N      N   N   N     S      N    N  N    N
+
+sentence 217
+REF: my acne itches and oozes
+HYP: my acne itches and   oos
+OPS:  N    N      N   N     S
+
+sentence 220
+REF: i have a   scab on the back of my hand that just wont go away
+HYP: i have a escape on the back of my hand that just wont go away
+OPS: N    N N      S  N   N    N  N  N    N    N    N    N  N    N
+
+sentence 221
+REF: is my cut infected or just healing
+HYP: is my gut infected or just healing
+OPS:  N  N   S        N  N    N       N
+
+sentence 222
+REF: i was very active in * sports but now my body is feeling pain
+HYP: i was very active in a  sport but now my body is feeling pain
+OPS: N   N    N      N  N I      S   N   N  N    N  N       N    N
+
+sentence 223
+REF: it itches inside my ears
+HYP: it   itch inside my ears
+OPS:  N      S      N  N    N
+
+sentence 224
+REF: my knees seem to grind   as   i go up or down *** stairs
+HYP: my knees  she to grind edge and go up or down the stairs
+OPS:  N     N    S  N     N    S   S  N  N  N    N   I      N
+
+sentence 225
+REF: my face has broken out in painful     red spots and lumps that no matter how much i clean my face dont seem to be going away
+HYP: my face has broken out in painful reddish spots and lumps that no matter how much i clean my face dont seem to be going away
+OPS:  N    N   N      N   N  N       N       S     N   N     N    N  N      N   N    N N     N  N    N    N    N  N  N     N    N
+
+sentence 228
+REF: mr hair is falling out just by combing it
+HYP: my hair is falling out just by combing it
+OPS:  S    N  N       N   N    N  N       N  N
+
+sentence 230
+REF: every morning when i wake up my neck feels like i slept on  in wrong
+HYP: every morning when i wake up my neck feels like i slept on and wrong
+OPS:     N       N    N N    N  N  N    N     N    N N     N  N   S     N
+
+sentence 233
+REF: i have some terrible problems when * im breathing during the night
+HYP: i have some terrible problems when i am breathing during the night
+OPS: N    N    N        N        N    N I  S         N      N   N     N
+
+sentence 236
+REF: my heart is pumping fast and im having a hard time to  breath
+HYP: my heart is pumping fast and im having a hard time to breathe
+OPS:  N     N  N       N    N   N  N      N N    N    N  N       S
+
+sentence 239
+REF: *  ive been over my cold for weeks but * still cough every day
+HYP: i have been over my cold for weeks but i still cough every day
+OPS: I    S    N    N  N    N   N     N   N I     N     N     N   N
+
+sentence 243
+REF: *  ive got a hard time to  breath am i having a heart attack
+HYP: i have got a hard time to breathe am i having a heart attack
+OPS: I    S   N N    N    N  N       S  N N      N N     N      N
+
+sentence 249
+REF: i cut myself and * im bleeding
+HYP: i cut myself and i am bleeding
+OPS: N   N      N   N I  S        N
+
+sentence 252
+REF: i have a very  rash sensation close to my arms
+HYP: i have a very rough sensation close to my arms
+OPS: N    N N    N     S         N     N  N  N    N
+
+sentence 260
+REF:  i am struggling to bear weight on my knee when i stand straight i feel and hear a loud popping noise
+HYP: im ** struggling to bear weight on my knee when i stand straight i feel and hear a loud popping noise
+OPS:  S  D          N  N    N      N  N  N    N    N N     N        N N    N   N    N N    N       N     N
+
+sentence 261
+REF: i have a dull ache in my stomach it gets worse after i eat
+HYP: i have a dull  egg in my stomach it gets worse after i eat
+OPS: N    N N    N    S  N  N       N  N    N     N     N N   N
+
+sentence 267
+REF: there is a tingling sensation in my neck
+HYP: there is * tingling sensation in my neck
+OPS:     N  N D        N         N  N  N    N
+
+sentence 268
+REF: when im doing * sport i have pain under my skin
+HYP: when im doing a sport i have pain under my skin
+OPS:    N  N     N I     N N    N    N     N  N    N
+
+sentence 271
+REF: my acne is really embarassing its so read
+HYP: my acne is really   embracing its so read
+OPS:  N    N  N      N           S   N  N    N
+
+sentence 274
+REF: i feel pain in my knee
+HYP: i feel pain in my ****
+OPS: N    N    N  N  N    D
+
+sentence 275
+REF: standing less than five minutes and my back  start to ache
+HYP: standing less than five minutes and my back starts to ache
+OPS:        N    N    N    N       N   N  N    N      S  N    N
+
+sentence 276
+REF: a terrible fall in hair
+HYP: a terrible fall in  her
+OPS: N        N    N  N    S
+
+sentence 280
+REF: my son got a tattoo several weeks ago and the skin around it is raised and hot and it looks infected
+HYP: my son got a tattoo several weeks ago and the skin around it is raised and hot and it looks impacted
+OPS:  N   N   N N      N       N     N   N   N   N    N      N  N  N      N   N   N   N  N     N        S
+
+sentence 281
+REF: i visited many doctors but they cant find the right treatment ** toget my hair back
+HYP: i visited many doctors but they cant find the right treatment to   get my hair back
+OPS: N       N    N       N   N    N    N    N   N     N         N  I     S  N    N    N
+
+sentence 286
+REF: my daughter was bit by her cat and now her hand is sore red and swollen      and the wound is oozing liquid
+HYP: my daughter was bit by her cat and now her hand is sore red and swollen bruising *** ***** ** ****** liquid
+OPS:  N        N   N   N  N   N   N   N   N   N    N  N    N   N   N       N        S   D     D  D      D      N
+
+sentence 287
+REF: all of a sudden i felt dizzy when i stood  up
+HYP: all of a sudden i felt dizzy when i    to the
+OPS:   N  N N      N N    N     N    N N     S   S
+
+sentence 288
+REF: when i tried to answer the phine call i found that i cant hear the voice of the speaker
+HYP: when i tried to answer the phone call i found that i cant hear the voice of the speaker
+OPS:    N N     N  N      N   N     S    N N     N    N N    N    N   N     N  N   N       N
+
+sentence 291
+REF: there is a sharp pain in      my calve
+HYP: there is a sharp pain in macabre *****
+OPS:     N  N N     N    N  N       S     D
+
+sentence 293
+REF: i have a sharp pain in my ear
+HYP: i have a sharp pain in my  uh
+OPS: N    N N     N    N  N  N   S
+
+sentence 297
+REF: my son nicked his neck with an old razor and  that spot has become inflamed and looks like it is infected
+HYP: my son nicked his neck with an old razor and thats what has become inflamed and looks like it is infected
+OPS:  N   N      N   N    N    N  N   N     N   N     S    S   N      N        N   N     N    N  N  N        N
+
+sentence 298
+REF: * im in need for a treatment for my hair fall
+HYP: i am in need for a treatment for my hair fall
+OPS: I  S  N    N   N N         N   N  N    N    N
+
+sentence 300
+REF: i feel fluid trying to come up when i cough
+HYP: i feel   you trying to come up when i cough
+OPS: N    N     S      N  N    N  N    N N     N
+
+sentence 301
+REF: when i walk its hard to  breath
+HYP: when i walk its hard to breathe
+OPS:    N N    N   N    N  N       S
+
+sentence 302
+REF: at first it feels really numb but then   a thousand needles start to prick through my foot
+HYP: at first it feels really numb but then one thousand needles start to break through my foot
+OPS:  N     N  N     N      N    N   N    N   S        N       N     N  N     S       N  N    N
+
+sentence 304
+REF: my cbc report indicate ten hb i feel tired  of little work
+HYP: my cbc report indicate ten hb i feel tired out little  bit
+OPS:  N   N      N        N   N  N N    N     N   S      N    S
+
+sentence 305
+REF: i get   i joint pain when i try to bend my leg or my arm
+HYP: i get eye joint pain when i try to bend my leg or my arm
+OPS: N   N   S     N    N    N N   N  N    N  N   N  N  N   N
+
+sentence 306
+REF: i have a lot of  mucus when i cough
+HYP: i have a lot of muscle when i cough
+OPS: N    N N   N  N      S    N N     N
+
+sentence 310
+REF: the wound    is still open
+HYP: *** wound steel    of  fun
+OPS:   D     N     S     S    S
+
+sentence 313
+REF: feels like there   are pins and needles sticking in my joints
+HYP: pills like thera pains **** and needles sticking in my joints
+OPS:     S    N     S     S    D   N       N        N  N  N      N
+
+sentence 316
+REF: its hard to see things
+HYP: its hard to say things
+OPS:   N    N  N   S      N
+
+sentence 317
+REF: there is a sharp pain in my  bicep
+HYP: there is a sharp pain in my biceps
+OPS:     N  N N     N    N  N  N      S
+
+sentence 321
+REF: my temperature dropped and my body  get synosed
+HYP: my temperature dropped and my body kept snoozed
+OPS:  N           N       N   N  N    N    S       S
+
+sentence 329
+REF: i have shoulder pain after doing any home work
+HYP: i have shoulder pain after doing any **** ****
+OPS: N    N        N    N     N     N   N    D    D
+
+sentence 333
+REF: i have pain in my colon and my stomach like something cutting it
+HYP: i have pain in my colon and my stomach like something cutting **
+OPS: N    N    N  N  N     N   N  N       N    N         N       N  D
+
+sentence 335
+REF: i feel deep tingling when i touch acne followed by * bad sensation
+HYP: i feel deep tingling when i touch acne followed by a bad sensation
+OPS: N    N    N        N    N N     N    N        N  N I   N         N
+
+sentence 337
+REF: i cant  breath because of cough
+HYP: i cant breathe because of cough
+OPS: N    N       S       N  N     N
+
+sentence 338
+REF: it hurts when i bent my arm
+HYP: it hurts when i bend my arm
+OPS:  N     N    N N    S  N   N
+
+sentence 341
+REF: i never had any acne problem until my last pregnancy when all of a sudden my back got covered in zits
+HYP: i never had any acne problem until my last pregnancy when all of a sudden my back got covered in jits
+OPS: N     N   N   N    N       N     N  N    N         N    N   N  N N      N  N    N   N       N  N    S
+
+sentence 342
+REF: red flushes accompanied with itchy
+HYP: red flushes accompanied with    it
+OPS:   N       N           N    N     S
+
+sentence 344
+REF: i have a skin rash after eating an *** icecream
+HYP: i have a skin rash after eating an ice    cream
+OPS: N    N N    N    N     N      N  N   I        S
+
+sentence 350
+REF: i hit myself and the would doesnt want to heal
+HYP: i hit myself and the wound doesnt want to heal
+OPS: N   N      N   N   N     S      N    N  N    N
+
+sentence 351
+REF: my face is all broken out with pimples
+HYP: my face is all broken  up with pimples
+OPS:  N    N  N   N      N   S    N       N
+
+sentence 355
+REF: there are lots of hairs on my pillow in the morning
+HYP: there are lots of  hail on my pillow in the morning
+OPS:     N   N    N  N     S  N  N      N  N   N       N
+
+sentence 358
+REF: my knee feels weak and it gave  way the other day at the top of the stairs luckily there was a rail to hold   on to
+HYP: my knee feels weak and it gave away the other day at the top of the stairs luckily there was a   ra to hold down to
+OPS:  N    N     N    N   N  N    N    S   N     N   N  N   N   N  N   N      N       N     N   N N    S  N    N    S  N
+
+sentence 359
+REF: i feel a strange and powerful pain inside my     rib cage
+HYP: i feel a strange and powerful pain inside my ribcage ****
+OPS: N    N N       N   N        N    N      N  N       S    D
+
+sentence 364
+REF: my sore isnt healing well and its been like this for two weeks
+HYP: my   so isnt healing well and its been like this for two weeks
+OPS:  N    S    N       N    N   N   N    N    N    N   N   N     N
+
+sentence 365
+REF: ive been over my cold for weeks but still cough every day
+HYP: ive been   on my cold for weeks but still cough every day
+OPS:   N    N    S  N    N   N     N   N     N     N     N   N
+
+sentence 367
+REF: my shoulder hurts when i try to reach something above my head
+HYP: my shoulder hurts when i try to  read something above my head
+OPS:  N        N     N    N N   N  N     S         N     N  N    N
+
+sentence 372
+REF: my heart is pumping fast and im having a hard time to  breath
+HYP: my heart is pumping fast and im having a hard time to breathe
+OPS:  N     N  N       N    N   N  N      N N    N    N  N       S
+
+sentence 373
+REF: i am struggling to bear weight on my knee when i stand straight i feel and hear a loud popping noise
+HYP: i am   starting to bear weight on my knee when i stand straight i feel and hear a  lot popping noise
+OPS: N  N          S  N    N      N  N  N    N    N N     N        N N    N   N    N N    S       N     N
+
+sentence 374
+REF: my acne itches and   oozes
+HYP: my acne itches and bruises
+OPS:  N    N      N   N       S
+
+sentence 375
+REF: my heart feels like its going to explode
+HYP: my heart feels like its going to explore
+OPS:  N     N     N    N   N     N  N       S
+
+sentence 376
+REF: since   i     went into the forest i have pain on my ear
+HYP: since ive returned   to the forest i have pain on my ear
+OPS:     N   S        S    S   N      N N    N    N  N  N   N
+
+sentence 378
+REF: my husband left me for another woman my heart hurts so badly to the point i cant eat or sleep
+HYP: my husband left me for another woman my heart  hurt so badly to the point i cant eat or sleep
+OPS:  N       N    N  N   N       N     N  N     N     S  N     N  N   N     N N    N   N  N     N
+
+sentence 380
+REF: i have a rash and it itches   very bad
+HYP: i have a rash and it itches really bad
+OPS: N    N N    N   N  N      N      S   N
+
+sentence 385
+REF: ive got a hard time to  breath am i having a heart attack
+HYP: ive got a hard time to breathe am i having a heart attack
+OPS:   N   N N    N    N  N       S  N N      N N     N      N
+
+sentence 389
+REF: my acne is really  embarassing its so read
+HYP: my acne is really embarrassing its so  red
+OPS:  N    N  N      N            S   N  N    S
+
+sentence 401
+REF: after a ***** breakup i feel something strange in me
+HYP: after a break      up i feel something strange in me
+OPS:     N N     I       S N    N         N       N  N  N
+
+sentence 402
+REF: when im driving my eyes see  in double
+HYP: when im driving my eyes see him double
+OPS:    N  N       N  N    N   N   S      N
+
+sentence 411
+REF: i have a cut that is red and swollen
+HYP: i have a gut that is red and swollen
+OPS: N    N N   S    N  N   N   N       N
+
+sentence 416
+REF: every morning when i wake up my neck feels like i slept on in wrong
+HYP: every morning when i wake up my neck feels like i slept on it wrong
+OPS:     N       N    N N    N  N  N    N     N    N N     N  N  S     N
+
+sentence 420
+REF: mr hair is falling out just by combing it
+HYP: my hair is falling out just by combing it
+OPS:  S    N  N       N   N    N  N       N  N
+
+sentence 421
+REF: i think ***** theres fluid in my ears
+HYP: i think there     is fluid in my ears
+OPS: N     N     I      S     N  N  N    N
+
+sentence 425
+REF: my head  ache since i woke up this morning
+HYP: my head aches since i woke up this morning
+OPS:  N    N     S     N N    N  N    N       N
+
+sentence 431
+REF: hearing any loud sounds makes my  ear aches
+HYP: hearing any loud sounds makes my ears  ache
+OPS:       N   N    N      N     N  N    S     S
+
+sentence 434
+REF: after playing football i have muscle pain with **** my both legs
+HYP: after playing football i have muscle pain with both my **** legs
+OPS:     N       N        N N    N      N    N    N    I  N    D    N
+
+sentence 444
+REF: the pain is intense especially when i go down the stairs it feels like something has snapped inside my knee
+HYP: the pain is intense especially when i go down the stairs it feels like something  is snapped inside my knee
+OPS:   N    N  N       N          N    N N  N    N   N      N  N     N    N         N   S       N      N  N    N
+
+sentence 450
+REF: i suffered a deep wound in my hand and i    can not stop the bleeding
+HYP: i suffered a deep wound in my hand and i cannot *** stop the bleeding
+OPS: N        N N    N     N  N  N    N   N N      S   D    N   N        N
+
+sentence 452
+REF: my husband has a spot on his lip that he  though was * cold sore but now it has broken open and leaks fluid all day
+HYP: my husband has a spot on his lip that he thought was a cold sore but now it has broken open and leaks fluid all day
+OPS:  N       N   N N    N  N   N   N    N  N       S   N I    N    N   N   N  N   N      N    N   N     N     N   N   N
+
+sentence 459
+REF: the knee feels like it rusted and i suddenly cannot bend it anymore
+HYP: the knee feels like it rested and i suddenly cannot bend it anymore
+OPS:   N    N     N    N  N      S   N N        N      N    N  N       N
+
+sentence 461
+REF: every time i look to *** left i feel a sharp pain in my neck
+HYP: every time i look to the left i feel a sharp pain in my neck
+OPS:     N    N N    N  N   I    N N    N N     N    N  N  N    N
+
+sentence 473
+REF: i cant walk because i have a great foot ache
+HYP: i cant walk because i have a great foot   ae
+OPS: N    N    N       N N    N N     N    N    S
+
+sentence 474
+REF: im not feeling good i get infection wound
+HYP: im not feeling good i get  infected wound
+OPS:  N   N       N    N N   N         S     N
+
+sentence 478
+REF: i carried a heavy bag yesterday and when i get up today i felt a great shoulder pain
+HYP: i carried a heavy bag yesterday and when i got up today i felt a great shoulder pain
+OPS: N       N N     N   N         N   N    N N   S  N     N N    N N     N        N    N
+
+sentence 489
+REF: when i tried to take care if my hair i found that it is falling out
+HYP: when i tried to take care of my hair i found that it is falling out
+OPS:    N N     N  N    N    N  S  N    N N     N    N  N  N       N   N
+
+sentence 492
+REF: i have some terrible problems when * im breathing during the night
+HYP: i have some terrible problems when i am breathing during the night
+OPS: N    N    N        N        N    N I  S         N      N   N     N
+
+sentence 494
+REF: my knee feels weak and it gave  way the other day at the top of the stairs luckily there was a rail to hold   on to
+HYP: my knee feels weak and it gave away the other day at the top of the stairs luckily there was a rail to hold onto **
+OPS:  N    N     N    N   N  N    N    S   N     N   N  N   N   N  N   N      N       N     N   N N    N  N    N    S  D
+
+sentence 501
+REF: after a ***** breakup i feel something strange in me
+HYP: after a break      up i feel something strange in me
+OPS:     N N     I       S N    N         N       N  N  N
+
+sentence 505
+REF: i  hit myself and the would doesnt want to heal
+HYP: i hate myself and thu ***** doesnt want to help
+OPS: N    S      N   N   S     D      N    N  N    S
+
+sentence 508
+REF: *  ive got a hard time to  breath am i having a heart attack
+HYP: i have got a hard time to breathe am i having a heart attack
+OPS: I    S   N N    N    N  N       S  N N      N N     N      N
+
+sentence 516
+REF: my acne ** itches and oozes
+HYP: my acne is   just  an     s
+OPS:  N    N  I      S   S     S
+
+sentence 517
+REF: my heart is pumping fast and * im having a hard time to  breath
+HYP: my heart is pumping fast and i am having a hard time to breathe
+OPS:  N     N  N       N    N   N I  S      N N    N    N  N       S
+
+sentence 522
+REF: every morning when i wake up my neck feels like i   slept on in wrong
+HYP: every morning when i what up my neck pills like i slipped on in wrong
+OPS:     N       N    N N    S  N  N    N     S    N N       S  N  N     N
+
+sentence 523
+REF: what helps cuts heal faster
+HYP: what helps gods hill faster
+OPS:    N     N    S    S      N
+
+sentence 526
+REF: i cut myself and * im bleeding
+HYP: i cut myself and i am bleeding
+OPS: N   N      N   N I  S        N
+
+sentence 527
+REF: since i went into the forest i have pain on my ear
+HYP: since i went into the forest i have pain on my arm
+OPS:     N N    N    N   N      N N    N    N  N  N   S
+
+sentence 528
+REF: my shoulder hurts when i try to reach something above my head
+HYP: my shoulder hurts when i try to  read something above my head
+OPS:  N        N     N    N N   N  N     S         N     N  N    N
+
+sentence 529
+REF:  is pimples a skin disease
+HYP: its pimples a skin disease
+OPS:   S       N N    N       N
+
+sentence 530
+REF: after walking i have some pain under my foot
+HYP: ***** walking i have some pain under my foot
+OPS:     D       N N    N    N    N     N  N    N
+
+sentence 531
+REF: my **** sore isnt healing well and ** its been like this for two weeks
+HYP: my sora   is  not healing well and it has been like this for two weeks
+OPS:  N    I    S    S       N    N   N  I   S    N    N    N   N   N     N
+
+sentence 532
+REF: i have a  dull ache in my stomach it gets worse after i eat
+HYP: i have a delic **** in my stomach it  get worse after i eat
+OPS: N    N N     S    D  N  N       N  N    S     N     N N   N
+
+sentence 537
+REF: my acne is really  embarassing its so read
+HYP: my acne is really embarrassing its so   it
+OPS:  N    N  N      N            S   N  N    S
+
+sentence 539
+REF: i think ***** theres fluid in my ears
+HYP: i think there     is fluid in my yard
+OPS: N     N     I      S     N  N  N    S
+
+sentence 541
+REF: it ** itches inside my ears
+HYP: it in   just inside my ears
+OPS:  N  I      S      N  N    N
+
+sentence 542
+REF: my face is all broken out with pimples ****
+HYP: my face is all broken out with pimples that
+OPS:  N    N  N   N      N   N    N       N    I
+
+sentence 546
+REF: there are lots of hairs on my pillow in the morning
+HYP: there are lots of yards on my pillow in the morning
+OPS:     N   N    N  N     S  N  N      N  N   N       N
+
+sentence 547
+REF: when im awake in the morning i feel strange and have **** ** vertigo
+HYP: when  i awake in the morning i feel strange and have hard to    wake
+OPS:    N  S     N  N   N       N N    N       N   N    N    I  I       S
+
+sentence 549
+REF: when * im doing sport i have pain under my skin
+HYP: when i am doing sport i have pain under my skin
+OPS:    N I  S     N     N N    N    N     N  N    N
+
+sentence 554
+REF: when im driving my eyes  see in double
+HYP: when im driving my eyes seem ** double
+OPS:    N  N       N  N    N    S  D      N
+
+sentence 555
+REF: mr hair is falling out just by combing it
+HYP: mr rear is falling out just by combing it
+OPS:  N    S  N       N   N    N  N       N  N
+
+sentence 557
+REF: *  ive been over my cold for weeks but still cough every day
+HYP: i have been over my cold for weeks but still cough every day
+OPS: I    S    N    N  N    N   N     N   N     N     N     N   N
+
+sentence 558
+REF: i get chills and aches all over
+HYP: i get ****** *** ***** all over
+OPS: N   N      D   D     D   N    N
+
+sentence 559
+REF: i cannot get warm no matter how much i wrap up or how high i put the heating on
+HYP: i cannot get  one no matter how much i work up or how high i put the heating on
+OPS: N      N   N    S  N      N   N    N N    S  N  N   N    N N   N   N       N  N
+
+sentence 560
+REF: i have a  cut that is red and swollen
+HYP: i have a card that is red and swollen
+OPS: N    N N    S    N  N   N   N       N
+
+sentence 561
+REF: my mind feels very sad as if it hurts the way i feel in my head is * awful and when i think about my breakup i cry with sadness
+HYP: my mind feels very sad as if it hurts the way i feel in my head is i  feel and when i think about my breakup i cry with sadness
+OPS:  N    N     N    N   N  N  N  N     N   N   N N    N  N  N    N  N I     S   N    N N     N     N  N       N N   N    N       N
+
+sentence 562
+REF: when i walk up a flight of stairs my right knee hurts
+HYP: when i woke up a flight of stairs my right knee hurts
+OPS:    N N    S  N N      N  N      N  N     N    N     N
+
+sentence 565
+REF: it feels like my heart is going to  leap out of my body it hurts
+HYP: it feels like my heart is going to leave out of my body it hurts
+OPS:  N     N    N  N     N  N     N  N     S   N  N  N    N  N     N
+
+sentence 566
+REF: i have a very  rash sensation close to my arms
+HYP: i have a very rough sensation close to my arms
+OPS: N    N N    N     S         N     N  N  N    N
+
+sentence 567
+REF: i **** stopped sports because i get injury from sports
+HYP: i stop       a  sport because i get injury from  sport
+OPS: N    I       S      S       N N   N      N    N      S
+
+sentence 568
+REF: feels like there are pins and needles sticking in my joints
+HYP: feels like there are pins and needles sticking ** my joints
+OPS:     N    N     N   N    N   N       N        N  D  N      N
+
+sentence 569
+REF: i have general discomfort in my torso
+HYP: i have general discomfort on my torso
+OPS: N    N       N          N  S  N     N
+
+sentence 570
+REF: i have dark spots on my skin
+HYP: i have dark  spot on my skin
+OPS: N    N    N     S  N  N    N
+
+sentence 571
+REF: after an hard working day i have *** foot ache
+HYP: after  a hard working day i have put    a    a
+OPS:     N  S    N       N   N N    N   I    S    S
+
+sentence 573
+REF: my cough is very heavy and i have mucus
+HYP: my coach is very heavy and i have mucus
+OPS:  N     S  N    N     N   N N    N     N
+
+sentence 574
+REF: i feel deep tingling when i touch ***   acne followed by bad ***** ** sensation
+HYP: i feel  the tingling when i touch and follow       it by bad sense of      tune
+OPS: N    N    S        N    N N     N   I      S        S  N   N     I  I         S
+
+sentence 575
+REF: i have whooping cough with excess mucous need mucolytic
+HYP: i have whooping coach with excess   muco   me *********
+OPS: N    N        N     S    N      N      S    S         D
+
+sentence 576
+REF: i feel pain in  my joint after an injury in the last football  match i played
+HYP: i feel pain in the joint after an injury in the last    about months a   year
+OPS: N    N    N  N   S     N     N  N      N  N   N    N        S      S S      S
+
+sentence 578
+REF: i have a problem in my back i *** cannot extend it
+HYP: i have a problem in my back i can  stand     it it
+OPS: N    N N       N  N  N    N N   I      S      S  N
+
+sentence 580
+REF: my head is spinning when i get up ** *** *** ***
+HYP: my head is spinning when i get up no but the way
+OPS:  N    N  N        N    N N   N  N  I   I   I   I
+
+sentence 581
+REF: i feel severe itching in the skin with redness
+HYP: i feel   very itching in the skin with redness
+OPS: N    N      S       N  N   N    N    N       N
+
+sentence 584
+REF: ********* there is a sharp pain in my bicep
+HYP: harassing there is a sharp pain in my bicep
+OPS:         I     N  N N     N    N  N  N     N
+
+sentence 585
+REF: my wound **** opened up again
+HYP: my wound open     it up again
+OPS:  N     N    I      S  N     N
+
+sentence 589
+REF: i can hardly breathe **
+HYP: i can hardly breathe it
+OPS: N   N      N       N  I
+
+sentence 590
+REF: i have a sharp pain in my  ear
+HYP: i have a sharp pain in my head
+OPS: N    N N     N    N  N  N    S
+
+sentence 591
+REF: it started as a ** ** tinnitus but today the pain is throbbing and unbearable
+HYP: it started as a ti it      was but today the pain ** throbbing and **********
+OPS:  N       N  N N  I  I        S   N     N   N    N  D         N   N          D
+
+sentence 592
+REF: i feel     so sore in my stomach area
+HYP: i   am nausea  cat ** ** ******* ****
+OPS: N    S      S    S  D  D       D    D
+
+sentence 593
+REF: ***** i have shoulder pain after doing any home work
+HYP: hello i   am     john **** ***** ***** *** **** ****
+OPS:     I N    S        S    D     D     D   D    D    D
+
+sentence 598
+REF: i was travelling by ship and i feel dizzy
+HYP: i was  traveling by ship and i feel dizzy
+OPS: N   N          S  N    N   N N    N     N
+
+sentence 612
+REF: yesterday i had a  shouder pain
+HYP: yesterday i had a shoulder pain
+OPS:         N N   N N        S    N
+
+sentence 615
+REF: my shoulder has * agreat pain
+HYP: my shoulder has a  great pain
+OPS:  N        N   N I      S    N
+
+sentence 617
+REF: i have a great stomach ache and i cant eat      any thing
+HYP: i have a great stomach ache and i cant eat anything *****
+OPS: N    N N     N       N    N   N N    N   N        S     D
+
+sentence 618
+REF: i was diagnosed with pneumonia i cant  breath easily
+HYP: i was diagnosed with pneumonia i cant breathe easily
+OPS: N   N         N    N         N N    N       S      N
+
+sentence 620
+REF: i started taking swimming lessons and i guess i swallowed too much water through my nose because this ***** sinusitis is killing me now
+HYP: i started taking swimming lessons and i guess i swallowed too much water through my nose because this sinus      diss is killing me now
+OPS: N       N      N        N       N   N N     N N         N   N    N     N       N  N    N       N    N     I         S  N       N  N   N
+
+sentence 623
+REF: i have a neck pain when i sit ** infront of my laptop
+HYP: i have a neck pain when i sit in   front of my laptop
+OPS: N    N N    N    N    N N   N  I       S  N  N      N
+
+sentence 627
+REF: i feel dizzy when i *** set infront of my laptop for an hour or two what possibly could be the reason
+HYP: i feel dizzy when i sit  in   front of my laptop for an hour or two what possibly could be the reason
+OPS: N    N     N    N N   I   S       S  N  N      N   N  N    N  N   N    N        N     N  N   N      N
+
+sentence 628
+REF: i *** dont have full range of motion with my arms
+HYP: i don    t have full range of motion with my arms
+OPS: N   I    S    N    N     N  N      N    N  N    N
+
+sentence 639
+REF: the severe pain in the stomach i feel
+HYP: *** severe pain in the stomach i feel
+OPS:   D      N    N  N   N       N N    N
+
+sentence 640
+REF: i cant do anything i feel a weak in my body
+HYP: i cant do anything i feel * weak in my body
+OPS: N    N  N        N N    N D    N  N  N    N
+
+number of sentences: 643
+substitutions=418 deletions=203 insertions=85 hits=6264
+
+mer=10.13%
+wil=15.78%
+wip=84.22%
+wer=10.25%

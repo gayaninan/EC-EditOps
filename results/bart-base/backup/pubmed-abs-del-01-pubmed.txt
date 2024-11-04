@@ -1,0 +1,3 @@
+pubmed-abs-del-01-pubmed
+baseline wer: 0.1001833350253504
+wer: 0.09823652009817681

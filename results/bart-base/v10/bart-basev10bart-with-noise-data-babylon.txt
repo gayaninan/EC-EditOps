@@ -1,0 +1,3 @@
+bart-basev10bart-with-noise-data-babylon
+baseline wer: 0.09272727272727273
+wer: 0.0648951048951049

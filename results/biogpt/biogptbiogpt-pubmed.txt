@@ -1,0 +1,3 @@
+biogptbiogpt-pubmed
+baseline wer: 0.0913987805533493
+wer: 1.8109081354171022

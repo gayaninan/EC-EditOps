@@ -1,0 +1,3 @@
+pubmed-mixed-noise-v3-0.5-kaggle-noised
+baseline wer: 0.5000575489885766
+wer: 0.41812217650274797

@@ -1,0 +1,3 @@
+bart-basev10bart-base-woz
+baseline wer: 0.09294735021048382
+wer: 0.44154316360071505

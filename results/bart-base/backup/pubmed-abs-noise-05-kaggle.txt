@@ -1,0 +1,3 @@
+pubmed-abs-noise-05-kaggle
+baseline wer: 0.35254510401979683
+wer: 0.2543377550139556

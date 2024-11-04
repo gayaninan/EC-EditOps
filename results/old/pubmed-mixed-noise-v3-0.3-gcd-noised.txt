@@ -1,0 +1,3 @@
+pubmed-mixed-noise-v3-0.3-gcd-noised
+baseline wer: 0.3054512957998213
+wer: 0.296514745308311

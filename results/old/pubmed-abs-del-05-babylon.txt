@@ -1,0 +1,3 @@
+pubmed-abs-del-05-babylon
+baseline wer: 0.49336340357553976
+wer: 0.5857001902882515

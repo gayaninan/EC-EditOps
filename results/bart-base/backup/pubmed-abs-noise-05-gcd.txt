@@ -1,0 +1,3 @@
+pubmed-abs-noise-05-gcd
+baseline wer: 0.3710455764075067
+wer: 0.30509383378016086

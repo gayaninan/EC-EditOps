@@ -1,0 +1,3 @@
+bart-base-kaggle
+baseline wer: 0.08770465859062528
+wer: 0.09059649526659569

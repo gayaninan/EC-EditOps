@@ -1,0 +1,3 @@
+bart-large-babylon
+baseline wer: 0.09810416519839311
+wer: 0.17746141377123123

@@ -1,0 +1,3 @@
+bart-basev10bart-with-woz-noise-data-0.1-v2-woz
+baseline wer: 0.09294735021048382
+wer: 0.024070122830286603

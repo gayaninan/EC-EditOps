@@ -1,0 +1,3 @@
+bart-basev11bart-with-vocab-noise-data-gcd
+baseline wer: 0.19197207678883071
+wer: 0.2268760907504363

@@ -1,0 +1,3 @@
+pubmed-abs-ins-con-01-gcd
+baseline wer: 0.07792672028596961
+wer: 0.07631814119749776

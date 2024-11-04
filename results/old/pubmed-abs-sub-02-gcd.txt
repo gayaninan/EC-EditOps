@@ -1,0 +1,3 @@
+pubmed-abs-sub-02-gcd
+baseline wer: 0.07953529937444147
+wer: 0.09454870420017873

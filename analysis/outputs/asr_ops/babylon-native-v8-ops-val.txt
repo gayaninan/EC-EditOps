@@ -1,0 +1,1117 @@
+sentence 4
+REF: uh i ** * ive been feeling really hot um i dont know if its fever as such but * like to touch im quite hot but sometimes im feeling really chilly *** needing to be     under a blanket that sort of thing
+HYP: uh i ha i ive been feeling really hot um i dont know if its fever as such but i like to touch im quite hot but sometimes im feeling really chilly and needing to be underwear a blanket that sort of thing
+OPS:  N N  I I   N    N       N      N   N  N N    N    N  N   N     N  N    N   N I    N  N     N  N     N   N   N         N  N       N      N      N   I       N  N  N         S N       N    N    N  N     N
+
+sentence 5
+REF: uhh no i havent
+HYP:  uh no i havent
+OPS:   S  N N      N
+
+sentence 6
+REF: uh seven three four court in ****  st
+HYP: uh    hi ***** **** court in sain als
+OPS:  N     S     D    D     N  N    I   S
+
+sentence 7
+REF: uhh yes um kind of around when it started i had some diarrhoea but i dont know if that was associated but since then its all been pretty fine
+HYP:  uh yes um kind of around when it started i had some  diarrhea but i dont know if that was associated but since then its all been pretty fine
+OPS:   S   N  N    N  N      N    N  N       N N   N    N         S   N N    N    N  N    N   N          N   N     N    N   N   N    N      N    N
+
+sentence 8
+REF: rashes uhh no nothing like that
+HYP: rashes  uh no nothing like that
+OPS:      N   S  N       N    N    N
+
+sentence 10
+REF: uh i mean like if i do intense exercise then yes but *** not
+HYP: uh i mean like if i do intense exercise  and yes but not not
+OPS:  N N    N    N  N N  N       N        N    S   N   N   I   N
+
+sentence 14
+REF: uh i think something called metformin ** and lisinopril i think is the other one
+HYP: uh i think something called metformin uh and lisinopril i think is the other one
+OPS:  N N     N         N      N         N  I   N          N N     N  N   N     N   N
+
+sentence 15
+REF: uh ooh uh a while ago um *** ***** ***
+HYP: uh  oh ** a while ago um the order one
+OPS:  N   S  D N     N   N  N   I     I   I
+
+sentence 19
+REF: uh my height is five foot five and my weight is sixty five kilograms
+HYP: uh my height is five   ft five and my weight is sixty five        kg
+OPS:  N  N      N  N    N    S    N   N  N      N  N     N    N         S
+
+sentence 20
+REF: um well like five days ago i started having problems like a cough and my nose is just constantly streaming
+HYP: um well **** five days ago i started having problems like a cough and my nose is just constantly streaming
+OPS:  N    N    D    N    N   N N       N      N        N    N N     N   N  N    N  N    N          N         N
+
+sentence 24
+REF: um uh a quite a few lemon sips um they seems to be helping
+HYP: um uh * quite a few   les **** um they  seem to be helping
+OPS:  N  N D     N N   N     S    D  N    N     S  N  N       N
+
+sentence 26
+REF: yeah it tends to soothe my throat a bit for when im going to sleep
+HYP: yeah it tends to soothe my throat a bit  uh when im going to sleep
+OPS:    N  N     N  N      N  N      N N   N   S    N  N     N  N     N
+
+sentence 27
+REF: uh i sometimes suffer from some like hay fever but um but its not *** bad ***
+HYP: uh i sometimes suffer from some like hay fever *** um but its not too bad yet
+OPS:  N N         N      N    N    N    N   N     N   D  N   N   N   N   I   N   I
+
+sentence 31
+REF: ok so then we would **** at potentially antibiotics at that time perhaps
+HYP: ok so then we would look at potentially antibiotics at that time perhaps
+OPS:  N  N    N  N     N    I  N           N           N  N    N    N       N
+
+sentence 33
+REF: im not at home
+HYP: uh not at home
+OPS:  S   N  N    N
+
+sentence 34
+REF: alright thanks so much bye
+HYP: ******* thanks so much bye
+OPS:       D      N  N    N   N
+
+sentence 37
+REF: im coughing maybe every *** ******** twenty thirty minutes or so
+HYP: im coughing maybe every two thousand    and thirty minutes or so
+OPS:  N        N     N     N   I        I      S      N       N  N  N
+
+sentence 39
+REF: ok thats fine are *** you in a private place so you can have a consultation
+HYP: ok thats fine are are you in a private place ** you can have a consultation
+OPS:  N     N    N   N   I   N  N N       N     N  D   N   N    N N            N
+
+sentence 40
+REF: ok and ** when you were a child how bad was your asthma
+HYP: ok and uh when you were a child how bad was your asthma
+OPS:  N   N  I    N   N    N N     N   N   N   N    N      N
+
+sentence 46
+REF: ok and when do you think it  last when do you think that asthma stopped at what age did you get to   a point where you werent taking medication anymore
+HYP: ok and when do you think it lasts when do you think that asthma stopped at what age did you get to the point where you werent taking medication anymore
+OPS:  N   N    N  N   N     N  N     S    N  N   N     N    N      N       N  N    N   N   N   N   N  N   S     N     N   N      N      N          N       N
+
+sentence 50
+REF: any any um blood in there when you cough
+HYP: any any um blood in   the when you cough
+OPS:   N   N  N     N  N     S    N   N     N
+
+sentence 57
+REF: you do *** so you said you stopped them three to four years ago
+HYP: you do and so you said you stopped them three to four years ago
+OPS:   N  N   I  N   N    N   N       N    N     N  N    N     N   N
+
+sentence 70
+REF: how often have a glass of what
+HYP: how often **** * glass of what
+OPS:   N     N    D D     N  N    N
+
+sentence 78
+REF: are you able to get up ** and down the stairs ok
+HYP: are you able to get up up and down the stairs ok
+OPS:   N   N    N  N   N  N  I   N    N   N      N  N
+
+sentence 83
+REF: what **** was your temperature
+HYP: what what was your temperature
+OPS:    N    I   N    N           N
+
+sentence 85
+REF: ok so what i would suggest is you take it more regularly than you are doing at the moment have you got um a ***** spacer at home
+HYP: ok so what i would suggest is you take it more regularly than you are doing at the moment have you got um a space    set at home
+OPS:  N  N    N N     N       N  N   N    N  N    N         N    N   N   N     N  N   N      N    N   N   N  N N     I      S  N    N
+
+sentence 90
+REF: initially um if you get a high temperature or your wheezing is getting worse you need to call us back ******** straightaway so we can just advise you further with that
+HYP: initially um if you get a high temperature or your wheezing is getting worse you need to call us back straight         away so we can just advise you further with that
+OPS:         N  N  N   N   N N    N           N  N    N        N  N       N     N   N    N  N    N  N    N        I            S  N  N   N    N      N   N       N    N    N
+
+sentence 91
+REF: and it  will be a good idea when youre feeling better if we   can arrange just a review just to see how your asthma is because we may need to start some other medication for you
+HYP: and it would be a good idea when youre feeling better if we could arrange just a review just to see how your asthma is because we may need to start some other medication for you
+OPS:   N  N     S  N N    N    N    N     N       N      N  N  N     S       N    N N      N    N  N   N   N    N      N  N       N  N   N    N  N     N    N     N          N   N   N
+
+sentence 92
+REF: you could arrange a review in a week or so um but but before that and if youre if youre feeling worse
+HYP: you   can arrange a review in a week or so um but but before that and if youre if youre feeling worse
+OPS:   N     S       N N      N  N N    N  N  N  N   N   N      N    N   N  N     N  N     N       N     N
+
+sentence 94
+REF: which you can get ** from the pharmacy i can put a ******** on your notes about what to take
+HYP: which you can get it from the pharmacy i can put a question on your notes about what to take
+OPS:     N   N   N   N  I    N   N        N N   N   N N        I  N    N     N     N    N  N    N
+
+sentence 95
+REF: and then if you when you get the peak flow meter if you can take the pharmacist can show you how to use it and if you   can record a value first thing when you wake up
+HYP: and then if you when you get the peak flow meter if you can take the pharmacist can show you how to use it and if you could record a value first thing when you wake up
+OPS:   N    N  N   N    N   N   N   N    N    N     N  N   N   N    N   N          N   N    N   N   N  N   N  N   N  N   N     S      N N     N     N     N    N   N    N  N
+
+sentence 96
+REF: and in the evening over the next week and then we can discuss that over the phone when we look at the figures and see whether you need to go on another inhaler as well
+HYP:  um in the evening over the next week and then we can discuss that over the phone when we look at the figures and see whether you need to go on another inhaler as well
+OPS:   S  N   N       N    N   N    N    N   N    N  N   N       N    N    N   N     N    N  N    N  N   N       N   N   N       N   N    N  N  N  N       N       N  N    N
+
+sentence 101
+REF: uh date of birth **** ******** twenty    second   of december nineteen ninety uh address uh ****** ** * ***** sixteen avenue
+HYP: uh date of birth 22nd december    one thousand, nine  hundred      and ninety uh address uh twenty 3d d sixty  strong avenue
+OPS:  N    N  N     N    I        I      S         S    S        S        S      N  N       N  N      I  I I     I       S      N
+
+sentence 105
+REF: no not that bad but still sometimes need to go to *** hospital to check if it goes well
+HYP: no not that bad but still sometimes need to go to the hospital to check if it goes well
+OPS:  N   N    N   N   N     N         N    N  N  N  N   I        N  N     N  N  N    N    N
+
+sentence 107
+REF: yeah so i have i have cough and cough a lot and i have a fever um i also used to walk to work but recently i cant because its  i i feel like very short of breath and sometimes i feel like i cant even finish ** ****** * sentence  is quite difficult to to complete the the the talking sometimes yeah occasionally
+HYP: yeah so i have i have cough and cough a lot and i have a fever um i also used to walk to work but recently i cant because its ii i feel like very short of breath and sometimes i feel like i cant even finish to saying a sentence its quite difficult to to complete the the the talking sometimes yeah occasionally
+OPS:    N  N N    N N    N     N   N     N N   N   N N    N N     N  N N    N    N  N    N  N    N   N        N N    N       N   N  S N    N    N    N     N  N      N   N         N N    N    N N    N    N      N  I      I I        N   S     N         N  N  N        N   N   N   N       N         N    N            N
+
+sentence 110
+REF: no just *** daytime working yeah
+HYP: no just the    time working yeah
+OPS:  N    N   I       S       N    N
+
+sentence 111
+REF: ohh um when i had asthma i used to take this ** inhaler yeah
+HYP:  oh ** when i had asthma i used to take this in    here yeah
+OPS:   S  D    N N   N      N N    N  N    N    N  I       S    N
+
+sentence 112
+REF: so um recently im * wheezy uh i have feel like kind of short of breath
+HYP: so um recently im d wheezy uh i have feel like kind of short of breath
+OPS:  N  N        N  N I      N  N N    N    N    N    N  N     N  N      N
+
+sentence 113
+REF: um i took **** salbutamol salbutamol yeah
+HYP: um i took tool         so        but yeah
+OPS:  N N    N    I          S          S    N
+
+sentence 116
+REF: uh i have uh hay fever as well
+HYP: uh i have  a hay fever as well
+OPS:  N N    N  S   N     N  N    N
+
+sentence 118
+REF: mmm    two three days yeah quite recently
+HYP:  mm twenty three days yeah quite recently
+OPS:   S      S     N    N    N     N        N
+
+sentence 119
+REF: uh ** one glass of wine
+HYP: uh uh one glass of wine
+OPS:  N  I   N     N  N    N
+
+sentence 121
+REF: ** i live with my partner
+HYP: oh i live with my partner
+OPS:  I N    N    N  N       N
+
+sentence 122
+REF: no i cant because i used to **** ** walk walk to work but recently i i work from home or sometimes i take sick leave yeah
+HYP: no i cant because i used to work uh    i work to work but recently i i work from home or sometimes i take sick leave yeah
+OPS:  N N    N       N N    N  N    I  I    S    S  N    N   N        N N N    N    N    N  N         N N    N    N     N    N
+
+sentence 126
+REF: sorry oh as a as  a adult yeah
+HYP: sorry uh as a as an adult yeah
+OPS:     N  S  N N  N  S     N    N
+
+sentence 130
+REF: yeah **** theyll be helpful
+HYP: yeah that  would be helpful
+OPS:    N    I      S  N       N
+
+sentence 134
+REF: uh yes i had asthma i also had uh ** ** hay fever and ****** eczema ** **** sorry
+HYP: uh yes i had asthma i also had uh ha uh hay fever and asthma eczema as well sorry
+OPS:  N   N N   N      N N    N   N  N  I  I   N     N   N      I      N  I    I     N
+
+sentence 135
+REF: ** *** ** ** ** hi there its doctor smith from babylon
+HYP: my leg in my um hi there its doctor smith from babylon
+OPS:  I   I  I  I  I  N     N   N      N     N    N       N
+
+sentence 140
+REF: any change in your bowel habit diarrhoea vomiting or blood in the stool
+HYP: any change in your bowel habit  diarrhea vomiting or blood in the stool
+OPS:   N      N  N    N     N     N         S        N  N     N  N   N     N
+
+sentence 143
+REF: ok right yeah whereabouts was it
+HYP: ok ***** yeah whereabouts was it
+OPS:  N     D    N           N   N  N
+
+sentence 147
+REF: whereabouts were you in the states
+HYP: whereabouts were you in the  state
+OPS:           N    N   N  N   N      S
+
+sentence 150
+REF: and whats your     job
+HYP:   i  what your problem
+OPS:   S     S    N       S
+
+sentence 153
+REF: ok  fine and um hows your mental health your stress levels all that
+HYP: ok right and um hows your mental health your stress levels all that
+OPS:  N     S   N  N    N    N      N      N    N      N      N   N    N
+
+sentence 156
+REF: your hands wrists ankles toes
+HYP: what hands wrists ankles toes
+OPS:    S     N      N      N    N
+
+sentence 159
+REF: do you take your regular inhalers or other medication
+HYP: do you take  any regular inhalers or other medication
+OPS:  N   N    N    S       N        N  N     N          N
+
+sentence 160
+REF: you havent been using it you said
+HYP: you havent been  used it you said
+OPS:   N      N    N     S  N   N    N
+
+sentence 162
+REF: and any erm do you take any other medications
+HYP: and any  um do you take any other medications
+OPS:   N   N   S  N   N    N   N     N           N
+
+sentence 165
+REF: sorry um so with this rash we would need to investigate whether this has been a contributing factor to your symptoms and just because of your symptoms which have been ongoing for six weeks thats obviously quite a long time to notice a change in your energy levels
+HYP: sorry um so with this rash we would need to investigate whether this has been a contributing factor to your symptoms and just because of your symptoms which have been ongoing for six weeks   its obviously quite a long time to notice a change in your energy levels
+OPS:     N  N  N    N    N    N  N     N    N  N           N       N    N   N    N N            N      N  N    N        N   N    N       N  N    N        N     N    N    N       N   N   N     N     S         N     N N    N    N  N      N N      N  N    N      N      N
+
+sentence 166
+REF: um i think its important to get some blood tests checking all the normal things like liver kidneys blood count **    etc but also some more specific things like um a bacterial infection you can sometimes get uh including one which you can get which can produce a rash like that so that would involve blood tests are you happy to do that
+HYP: um i think its important to get some blood tests checking all the normal things like liver kidneys blood count et cetera but also some more specific things like um * bacterial infection you can sometimes get uh including one  that you can get which can produce a rash like that so that would involve blood tests are you happy to do that
+OPS:  N N     N   N         N  N   N    N     N     N        N   N   N      N      N    N     N       N     N     N  I      S   N    N    N    N        N      N    N  N D         N         N   N   N         N   N  N         N   N     S   N   N   N     N   N       N N    N    N    N  N    N     N       N     N     N   N   N     N  N  N    N
+
+sentence 167
+REF: well you can get uh you can get a bacterial infection caused which is called um its *** called lyme disease that you can get a rash like that from a tick bite
+HYP: well you can get uh you can get * bacterial infection caused which is called um its its called lime ******* that you can get a rash **** that from a   ti ****
+OPS:    N   N   N   N  N   N   N   N D         N         N      N     N  N      N  N   N   I      N    S       D    N   N   N   N N    N    D    N    N N    S    D
+
+sentence 168
+REF: ok um so when **** do you think you were last well
+HYP: ok um so when when do you think you were last well
+OPS:  N  N  N    N    I  N   N     N   N    N    N    N
+
+sentence 169
+REF: so thats something we would do a test for as well um and if that comes back positive then there are specific antibiotics that we would give you to treat it
+HYP: so thats something we would do a test for as well uh and if that comes back positive then there are specific antibiotics that we would give you to treat it
+OPS:  N     N         N  N     N  N N    N   N  N    N  S   N  N    N     N    N        N    N     N   N        N           N    N  N     N    N   N  N     N  N
+
+sentence 170
+REF: so its definitely worth checking for but we would also check just for ***** ****** ** which can cause reduced energy tiredness and aching for persistent over six weeks
+HYP: so its definitely worth checking for but we would also check just for other things um which can cause reduced energy tiredness and aching for persistent over six weeks
+OPS:  N   N          N     N        N   N   N  N     N    N     N    N   N     I      I  I     N   N     N       N      N         N   N      N   N          N    N   N     N
+
+sentence 176
+REF: did you get any infections chest infections diarrhoea vomiting anything like that
+HYP: did you get any infections chest infections  diarrhea vomiting anything like that
+OPS:   N   N   N   N          N     N          N         S        N        N    N    N
+
+sentence 177
+REF: ok so just tell me what symptoms youve been having in terms of just your general health any persistent cold symptoms or earaches sore throat chest ***** cough shortness of breath phlegm anything like that
+HYP: ok so just tell me what symptoms youve been having in terms of just your general health any persistent cold symptoms or earaches sore throat chest chest cough shortness of breath phlegm anything like that
+OPS:  N  N    N    N  N    N        N     N    N      N  N     N  N    N    N       N      N   N          N    N        N  N        N    N      N     N     I     N         N  N      N      N        N    N    N
+
+sentence 179
+REF:   no the symptoms sort of all started afterwards
+HYP: yeah the symptoms sort of all started afterwards
+OPS:    S   N        N    N  N   N       N          N
+
+sentence 180
+REF: uh i dont think so like im probably less hungry but no no weight change just a bit
+HYP: um i dont think so like im probably less hungry but no no weight change just a bit
+OPS:  S N    N     N  N    N  N        N    N      N   N  N  N      N      N    N N   N
+
+sentence 183
+REF: um i dont have any rashes now  but there was uh in fact ive got a photo um on my phone *** if if thats helpful i can try and show you hang on um because this yeah this was weird this sort of came up and then uh
+HYP: um i dont have any rashes now they ***** *** uh in fact ive got a photo um on my phone and if if thats helpful i can try and show you hang on um because this yeah this was weird this sort of came up and then uh
+OPS:  N N    N    N   N      N   N    S     D   D  N  N    N   N   N N     N  N  N  N     N   I  N  N     N       N N   N   N   N    N   N    N  N  N       N    N    N    N   N     N    N    N  N    N  N   N    N  N
+
+sentence 184
+REF: disappeared after a couple of weeks **** wheres the light * **** that you see that
+HYP: disappeared after a couple of weeks that    was the light i know that you see that
+OPS:           N     N N      N  N     N    I      S   N     N I    I    N   N   N    N
+
+sentence 185
+REF: yeah its ** matt carter and its fourteenth of august *** ********* **** ******* nineteen eighty nine and *** ** what was the last bit
+HYP: yeah its uh   ma caster and its       14th of august one thousand, nine hundred      and eighty nine and was it what was the last bit
+OPS:    N   N  I    S      S   N   N          S  N      N   I         I    I       I        S      N    N   N   I  I    N   N   N    N   N
+
+sentence 186
+REF: uh i think sort of calf back of my calf ** because i didnt notice it my wife noticed it actually
+HYP: uh i think sort of calf back of my calf uh   cause i didnt notice it my wife noticed it actually
+OPS:  N N     N    N  N    N    N  N  N    N  I       S N     N      N  N  N    N       N  N        N
+
+sentence 188
+REF: um ***** **  i to be honest that actually  turns  out it was a bit of a sore throat i had um so possibly a little bit feverish but i i sort of put it down to that
+HYP: um right uh uh to be honest that actually coined with ** *** a bit of a sore throat i had um so possibly a little bit feverish but i i sort of put it down to that
+OPS:  N     I  I  S  N  N      N    N        N      S    S  D   D N   N  N N    N      N N   N  N  N        N N      N   N        N   N N N    N  N   N  N    N  N    N
+
+sentence 189
+REF: uh i ********** like i do quite a lot of walking and we did um quite a lot while we were out in the on holiday as well but definitely um
+HYP: uh i definitely like i do quite a lot of walking and we did um quite a lot while we were out in the on holiday as well but definitely um
+OPS:  N N          I    N N  N     N N   N  N       N   N  N   N  N     N N   N     N  N    N   N  N   N  N       N  N    N   N          N  N
+
+sentence 190
+REF: yeah i mean i dont i dont recall any  bugs i dont remember seeing anything bitten but you often like yeah as youre walking through i was in shorts and and boots but *** **** * ****** ***
+HYP: yeah i mean i **** i dont recall any bites i dont remember seeing anything bitten but you often like yeah as youre walking through i was in shorts and and boots but you feel a little bit
+OPS:    N N    N N    D N    N      N   N     S N    N        N      N        N      N   N   N     N    N    N  N     N       N       N N   N  N      N   N   N     N   N   I    I I      I   I
+
+sentence 191
+REF: um just sort of um   he examined me so
+HYP: um just sort of uh near       yo ** so
+OPS:  N    N    N  N  S    S        S  D  N
+
+sentence 192
+REF: but its the sort of headache maybe in just generally feeling a bit crappy
+HYP:  uh *** *** sort of headache maybe in just generally feeling a bit crappy
+OPS:   S   D   D    N  N        N     N  N    N         N       N N   N      N
+
+sentence 193
+REF: um ive been going to work i dont know how effective its been but yeah *** been been
+HYP: um ive been going to work i dont know how effective its been but yeah ive been been
+OPS:  N   N    N     N  N    N N    N    N   N         N   N    N   N    N   I    N    N
+
+sentence 194
+REF: and its one babylon avenue
+HYP:  um its one babylon avenue
+OPS:   S   N   N       N      N
+
+sentence 196
+REF: yeah definitely sort of tired and um yeah less energy sort of ** probably * ***** ****** than i i would normally be
+HYP: yeah definitely sort of tired and um yeah less energy sort of uh probably i think engage than i i would normally be
+OPS:    N          N    N  N     N   N  N    N    N      N    N  N  I        N I     I      I    N N N     N        N  N
+
+sentence 197
+REF: not as much i i dont know if its i havent been able to or ive just been a bit lazy with it i im not exercising as **** ** i would normally
+HYP: not as much i i dont know if its i havent been able to or ive just been a bit lazy with it i im not exercising as much as i would normally
+OPS:   N  N    N N N    N    N  N   N N      N    N    N  N  N   N    N    N N   N    N    N  N N  N   N          N  N    I  I N     N        N
+
+sentence 198
+REF: * **** pretty good at the moment actually like it previously that has been an issue but um
+HYP: i look pretty good at the moment actually like uh previously that has been an issue but um
+OPS: I    I      N    N  N   N      N        N    N  S          N    N   N    N  N     N   N  N
+
+sentence 199
+REF: ** other than sort of physically feeling a bit
+HYP: uh other than sort of physically feeling a bit
+OPS:  I     N    N    N  N          N       N N   N
+
+sentence 201
+REF: uh yeah sort of aching shoulders back the hips knees but sort of yeah   not
+HYP: uh yeah sort of aching shoulders back the hips knees but sort of yeah north
+OPS:  N    N    N  N      N         N    N   N    N     N   N    N  N    N     S
+
+sentence 202
+REF: * asthma and hay fever if they can help
+HYP: a asthma and hay fever if they *** help
+OPS: I      N   N   N     N  N    N   D    N
+
+sentence 203
+REF: uh no *** pretty well          i think
+HYP: uh no its pretty well controlled    ok
+OPS:  N  N   I      N    N          S     S
+
+sentence 204
+REF: uh yeah ive got one of those um preventative i think yeah ** ** **** ***** * *** but ive not used  one
+HYP: uh yeah ive got one of those um preventative i think yeah uh to take twice a day but  im not used much
+OPS:  N    N   N   N   N  N     N  N            N N     N    N  I  I    I     I I   I   N   S   N    N    S
+
+sentence 205
+REF: i i have it ive been using the ***** everyday for the morning and night but not the uh ********* ***
+HYP: i i have ** ive been using the every      day for the morning and night but not the uh albuterol not
+OPS: N N    N  D   N    N     N   N     I        S   N   N       N   N     N   N   N   N  N         I   I
+
+sentence 206
+REF: um i ***** * *  take um ** one of the * antihistamines it might be **** can i get that from just from the pharmacy
+HYP: um i think i i think um uh one of the i          think it might be zine can i get that from just from the pharmacy
+OPS:  N N     I I I     S  N  I   N  N   N I              S  N     N  N    I   N N   N    N    N    N    N   N        N
+
+sentence 207
+REF: *** ** **** um coming i i dont really know whats been going on but its just aching all over but **** definitely the last six weeks it might have been slightly longer than that but its just sort of that feeling really tired run down
+HYP: and it come in     uh i i dont really know whats been going on but its just aching all over but yeah definitely the last six weeks it might have been slightly longer than that but its just sort of that feeling really tired run down
+OPS:   I  I    I  S      S N N    N      N    N     N    N     N  N   N   N    N      N   N    N   N    I          N   N    N   N     N  N     N    N    N        N      N    N    N   N   N    N    N  N    N       N      N     N   N    N
+
+sentence 208
+REF: sorry occasionally that was
+HYP:    so occasionally that one
+OPS:     S            N    N   S
+
+sentence 210
+REF: uh yeah ** ** ** ********* *****    i   but   uh what whats the infection
+HYP: uh yeah im in ge generally happy with blood test what whats the infection
+OPS:  N    N  I  I  I         I     I    S     S    S    N     N   N         N
+
+sentence 211
+REF: ok so do the test first and then * and that follow up we can just do over the phone again or yeah
+HYP: ok so do the test first and then a and that follow up we can just do over the phone again oh yeah
+OPS:  N  N  N   N    N     N   N    N I   N    N      N  N  N   N    N  N    N   N     N     N  S    N
+
+sentence 213
+REF: uh where are we now weve just started april  i definitely christmas new year i felt relatively well i think
+HYP: uh where are we now   we just    like april uh definitely christmas new year i felt relatively well i think
+OPS:  N     N   N  N   N    S    N       S     N  S          N         N   N    N N    N          N    N N     N
+
+sentence 214
+REF: oops sorry you broke up a bit there
+HYP:   oh sorry you broke up a bit  then
+OPS:    S     N   N     N  N N   N     S
+
+sentence 215
+REF: ohh no not no
+HYP:  oh no not no
+OPS:   S  N   N  N
+
+sentence 216
+REF: ok  take care thank you bye
+HYP: ok thank  you thank you bye
+OPS:  N     S    S     N   N   N
+
+sentence 219
+REF: yeah * had a had a great time very active uh
+HYP: yeah i had a had a great time very active um
+OPS:    N I   N N   N N     N    N    N      N  S
+
+sentence 228
+REF: ok and what about at     night time are you able to fall asleep
+HYP: ok and what about at nighttime **** are you able to fall asleep
+OPS:  N   N    N     N  N         S    D   N   N    N  N    N      N
+
+sentence 229
+REF: is it waking you up in the     night time
+HYP: is it waking you up in the nighttime ****
+OPS:  N  N      N   N  N  N   N         S    D
+
+sentence 232
+REF: um i cant hear you at the moment actually could you turn it up the volume up
+HYP: um i cant hear you at the moment actually could you turn ** up the volume up
+OPS:  N N    N    N   N  N   N      N        N     N   N    N  D  N   N      N  N
+
+sentence 233
+REF: ok and have you had any cold symptoms sore throat sore ears or pain over the sinuses any cough or   flem
+HYP: ok and have you had any cold symptoms sore throat sore ears or pain over the sinuses any    co or phlegm
+OPS:  N   N    N   N   N   N    N        N    N      N    N    N  N    N    N   N       N   N     S  N      S
+
+sentence 237
+REF: so youve been youve had a headache for three days ** how many days have you missed off work
+HYP: so youve been youve had a headache for three days ho how many days have you missed off work
+OPS:  N     N    N     N   N N        N   N     N    N  I   N    N    N    N   N      N   N    N
+
+sentence 245
+REF: ok and when youd *** when youve had when you described your headaches in the past you said they were just general did you have any visual symptoms flashing lights nausea vomiting with them
+HYP: ok and when youd had when youve had when you described your headaches in the past you said they were just general did you have any visual symptoms    flash lights nausea vomiting with them
+OPS:  N   N    N    N   I    N     N   N    N   N         N    N         N  N   N    N   N    N    N    N    N       N   N   N    N   N      N        N        S      N      N        N    N    N
+
+sentence 246
+REF: have you had your blood pressure checked recently with your pill
+HYP: have you had your    bp ******** checked recently with your pill
+OPS:    N   N   N    N     S        D       N        N    N    N    N
+
+sentence 254
+REF: how much in a normal   week do you think
+HYP: how much in a normal weight do you think
+OPS:   N    N  N N      N      S  N   N     N
+
+sentence 256
+REF: um so uh i mean its obviously the first time youve had such a bad headache and you said youd had some altered light in front of your eyes as well
+HYP: um so ** i mean its obviously the first time youve had such a bad headache and you said youd had some altered light in front of your eyes as well
+OPS:  N  N  D N    N   N         N   N     N    N     N   N    N N   N        N   N   N    N    N   N    N       N     N  N     N  N    N    N  N    N
+
+sentence 259
+REF: but the fact its still ongoing for three days we probably should book you into an appointment to get an examination
+HYP: but  in fact its still ongoing for three days we probably should  put you into an appointment to get an examination
+OPS:   N   S    N   N     N       N   N     N    N  N        N      N    S   N    N  N           N  N   N  N           N
+
+sentence 262
+REF: um in terms of medication i can prescribe you something similar to ibuprofen but a bit stronger which you can take instead of ibuprofen and you can also take paracetamol at the same time
+HYP: um in terms of medication i can prescribe you something similar to ibuprofen but a bit   strong which you can take instead of ibuprofen and you can **** take paracetamol at the same time
+OPS:  N  N     N  N          N N   N         N   N         N       N  N         N   N N   N        S     N   N   N    N       N  N         N   N   N   N    D    N           N  N   N    N    N
+
+sentence 264
+REF: and start the medication which i  prescribe to you take it with food
+HYP: and start the medication which i prescribed to you take it with food
+OPS:   N     N   N          N     N N          S  N   N    N  N    N    N
+
+sentence 265
+REF: if if youre you said that when you go to bed your headaches ** ok and not waking you up in the     night time
+HYP: if if   you you said that when you go to bed your headaches is ok and not waking you up in the nighttime ****
+OPS:  N  N     S   N    N    N    N   N  N  N   N    N         N  I  N   N   N      N   N  N  N   N         S    D
+
+sentence 267
+REF: ok thats fine um i mean if if in the meantime before your appointment your headache is getting unbearable getting worse or changing then **** um if its that bad then you should go to  a and e and have an examination
+HYP: ok thats fine um i mean if if in the meantime before your appointment your headache is getting unbearable getting worse or changing then call um if its that bad then you should go to ae *** * and have an examination
+OPS:  N     N    N  N N    N  N  N  N   N        N      N    N           N    N        N  N       N          N       N     N  N        N    N    I  N  N   N    N   N    N   N      N  N  N  S   D D   N    N  N           N
+
+sentence 269
+REF: and when when you have  a an examination with us well check your blood pressure as well
+HYP:  um when when you have uh an examination with us well check your    bp ******** as well
+OPS:   S    N    N   N    N  S  N           N    N  N    N     N    N     S        D  N    N
+
+sentence 270
+REF: just to make sure your **** pills still appropriate for you because sometimes if we if we do think its a migraine then you would have to change your pill if youve had these flashing lights and things like that
+HYP: just to make sure your pill    is still appropriate for you because sometimes if we if we do think its a migraine then you would have to change your pill if youve had these flashing lights and things like that
+OPS:    N  N    N    N    N    I     S     N           N   N   N       N         N  N  N  N  N  N     N   N N        N    N   N     N    N  N      N    N    N  N     N   N     N        N      N   N      N    N    N
+
+sentence 272
+REF: well some ** so that pill if you were having ** regular migraines with um flashing lights or other symptoms it wouldnt be suitable to stay on that pill particularly wed have to change it to something else
+HYP: well some pi so that pill if you were having mi regular migraines with um flashing lights or other symptoms it wouldnt be suitable to stay on that pill particularly wed have to change it to something else
+OPS:    N    N  I  N    N    N  N   N    N      N  I       N         N    N  N        N      N  N     N        N  N       N  N        N  N    N  N    N    N            N   N    N  N      N  N  N         N    N
+
+sentence 278
+REF: ok and ***** whereabouts in your head is the pain
+HYP: ok and where      abouts in your head is the pain
+OPS:  N   N     I           S  N    N    N  N   N    N
+
+sentence 281
+REF: um and um yeah vision i think i get this shooting  light sometimes
+HYP: um and um yeah vision i think i get   it shooting lights sometimes
+OPS:  N   N  N    N      N N     N N   N    S        N      S         N
+
+sentence 282
+REF: um not sure how to explain it just a bit of um weird kind of vision
+HYP: um not sure how to explain it just a bit of  a weird kind of vision
+OPS:  N   N    N   N  N       N  N    N N   N  N  S     N    N  N      N
+
+sentence 283
+REF: uh no feeling a bit sick but no vomiting
+HYP: mm no feeling a bit sick but no vomiting
+OPS:  S  N       N N   N    N   N  N        N
+
+sentence 284
+REF: no none at all
+HYP: no  not at all
+OPS:  N    S  N   N
+
+sentence 285
+REF: um i   was sick   but      i       had no more headache its just um a bit of a pressure in between my eyes um
+HYP: um i would  say quite normal headaches ** **** ******** *** just um a bit of a pressure in between my eyes um
+OPS:  N N     S    S     S      S         S  D    D        D   D    N  N N   N  N N        N  N       N  N    N  N
+
+sentence 286
+REF: **** kinda all the time um so when i take ibuprofen it gets a bit better so its a bit like less um it it bothered me less but then i still have it its still there
+HYP: kind    of all the time um so when i take ibuprofen it gets a bit better so its a bit like less um  i it  bothers me less but then i still have it its still there
+OPS:    I     S   N   N    N  N  N    N N    N         N  N    N N   N      N  N   N N   N    N    N  N  S  N        S  N    N   N    N N     N    N  N   N     N     N
+
+sentence 287
+REF: i guess its mostly eight and then it kinda comes down to maybe a five
+HYP: i guess its mostly eight and then it comes comes down to maybe a five
+OPS: N     N   N      N     N   N    N  N     S     N    N  N     N N    N
+
+sentence 288
+REF: uh can you hear me * better    now
+HYP: uh can you give me a  phone number
+OPS:  N   N   N    S  N I      S      S
+
+sentence 291
+REF: sometimes when i stand up quickly i get  a bit of a stabbing pain um or if i throw my head like it i  kind of feel like something is moving inside
+HYP: sometimes when i stand up quickly i get up and uh * stabbing pain um or if i  turn my head like  i i kinda ** feel like something is moving inside
+OPS:         N    N N     N  N       N N   N  S   S  S D        N    N  N  N  N N     S  N    N    N  S N     S  D    N    N         N  N      N      N
+
+sentence 292
+REF: um yeah * actually had one recently and nothing changed ** my vision
+HYP: um yeah i actually had one recently and nothing changed in my vision
+OPS:  N    N I        N   N   N        N   N       N       N  I  N      N
+
+sentence 293
+REF: um no change of weight maybe um lack of energy but it might be because im just having these headaches so im find it quite difficult to go through my daily activities *** you know when you have this constant headache
+HYP: uh no change of weight maybe um lack of energy but it might be because im just having these headaches so  i find it quite difficult to go through my daily activities but you know when you have this constant headache
+OPS:  S  N      N  N      N     N  N    N  N      N   N  N     N  N       N  N    N      N     N         N  N  S    N  N     N         N  N  N       N  N     N          N   I   N    N    N   N    N    N        N        N
+
+sentence 294
+REF: um i work from home but * couldnt really manage to do it all the time so sometimes i just took   a day off
+HYP: um i work from home but i couldnt really manage to do it all the time so sometimes i just   do the day off
+OPS:  N N    N    N    N   N I       N      N      N  N  N  N   N   N    N  N         N N    N    S   S   N   N
+
+sentence 295
+REF: um ok sorry about that
+HYP: uh ok sorry about that
+OPS:  S  N     N     N    N
+
+sentence 296
+REF: um so i worked from home all these three days and um first day i worked from home and then um the second *** i just took the whole day off and today i just tried to work from home the first half of the day but i i just stopped in the morning cause i couldnt focus
+HYP: um so i   work from home all these three days and um first day i   work from home and then um the second day i just took the whole day off and today i just tried to work from home the first half of the day but i i just stopped in the morning cause i couldnt focus
+OPS:  N  N N      S    N    N   N     N     N    N   N  N     N   N N      S    N    N   N    N  N   N      N   I N    N    N   N     N   N   N   N     N N    N     N  N    N    N    N   N     N    N  N   N   N   N N N    N       N  N   N       N     N N       N     N
+
+sentence 297
+REF: um ** i think i only had         a a pain um when i was younger but no causes   found and that went away but thats the only thing i know of
+HYP: um oh i think i only had abdominal * pain um when i was younger but no causes problem and that went away but thats the only thing i know of
+OPS:  N  I N     N N    N   N         S D    N  N    N N   N       N   N  N      N       S   N    N    N    N   N     N   N    N     N N    N  N
+
+sentence 298
+REF: um just the pill
+HYP: um just the belt
+OPS:  N    N   N    S
+
+sentence 300
+REF: uh no i dont think so
+HYP: oh no i dont think so
+OPS:  S  N N    N     N  N
+
+sentence 301
+REF: um no ** ******* these headaches just very recently but nothing um ** ***** ***** ***** *** but nothing really changes
+HYP: um no uh because  this  headache just very recently  so nothing um uh about three years ago but nothing really changes
+OPS:  N  N  I       I     S         S    N    N        N   S       N  N  I     I     I     I   I   N       N      N       N
+
+sentence 303
+REF: um yeah i had it checked in the pharmacy when i got the pill and they  say it was normal
+HYP: uh yeah i had it checked in the pharmacy when i got the pill and they said it was normal
+OPS:  S    N N   N  N       N  N   N        N    N N   N   N    N   N    N    S  N   N      N
+
+sentence 304
+REF:    uh a year ago
+HYP: about a year ago
+OPS:     S N    N   N
+
+sentence 306
+REF: um probably like three ***** once a week
+HYP: um probably like three beers once a week
+OPS:  N        N    N     N     I    N N    N
+
+sentence 308
+REF: um ive been having this blinding headache for a few days um and its like really bothering me and ** i find it very hard to focus or like i cant even go to work
+HYP: um ive been having this blinding headache for a few days um and its like really bothering me and uh i find it very hard to focus or like i cant even go to work
+OPS:  N   N    N      N    N        N        N   N N   N    N  N   N   N    N      N         N  N   N  I N    N  N    N    N  N     N  N    N N    N    N  N  N    N
+
+sentence 309
+REF: uh no i didnt *** i dont really feel feverish or anything
+HYP: uh no i didnt but i dont really feel    fever or anything
+OPS:  N  N N     N   I N    N      N    N        S  N        N
+
+sentence 310
+REF: yeah its not um but you mentioned migraine and that um reminded ** that my mum suffers from like she has migraines um
+HYP: yeah its not um but you mentioned migraine and that um reminded me that my mom suffers from like she has migraines um
+OPS:    N   N   N  N   N   N         N        N   N    N  N        N  I    N  N   S       N    N    N   N   N         N  N
+
+sentence 311
+REF: um no i think thats it but i know that my mum like she has quite bad migraines shes like has the vomiting and everything **** ****
+HYP: um no i think thats it but i know that my mom like she has quite bad migraines shes like has the vomiting and everything like that
+OPS:  N  N N     N     N  N   N N    N    N  N   S    N   N   N     N   N         N    N    N   N   N        N   N          N    I    I
+
+sentence 312
+REF: not really just theyre on and off um i recently had   a a one for like two days um but it just went away with ibuprofen so nothing like more longer than two days before
+HYP: not really just   stay on and off um i recently had the * one for like two days um but it just went away with ibuprofen so nothing like   or longer than two days before
+OPS:   N      N    N      S  N   N   N  N N        N   N   S D   N   N    N   N    N  N   N  N    N    N    N    N         N  N       N    N    S      N    N   N    N      N
+
+sentence 314
+REF: um so  will you like um send me a referral to a specialist or do i have to ******* to confirm
+HYP: um so would you like um send me a referral to a specialist or do i have to support to     get
+OPS:  N  N     S   N    N  N    N  N N        N  N N          N  N  N N    N  N       I  N       S
+
+sentence 317
+REF: doesnt really go away with ibuprofen either i   try that but it just it gets a little bit better but like ** doesnt go away
+HYP: doesnt really go away with ibuprofen either i tried that but it just it gets a little bit better but like it doesnt go away
+OPS:      N      N  N    N    N         N      N N     S    N   N  N    N  N    N N      N   N      N   N    N  I      N  N    N
+
+sentence 318
+REF: um its kind of all over but i feel like over my right eye its um bit stronger
+HYP: um its kind of all over but i feel like over my right eye  is  a bit stronger
+OPS:  N   N    N  N   N    N   N N    N    N    N  N     N   N   S  S   N        N
+
+sentence 320
+REF: hi doctor smith hi can you confirm your name date of birth and your home address please
+HYP: hi ****** ***** ** can you confirm your name date of birth and your home address please
+OPS:  N      D     D  D   N   N       N    N    N    N  N     N   N    N    N       N      N
+
+sentence 322
+REF: ** so it means if youre if youre there and uh you just feel it sort of jolt like give way feel unstable underneath you
+HYP: um so it means if youre if youre there and ** you just feel it sort of jolt like give way feel unstable underneath you
+OPS:  I  N  N     N  N     N  N     N     N   N  D   N    N    N  N    N  N    N    N    N   N    N        N          N   N
+
+sentence 323
+REF: ** and does it hurt uh how far into the run does it generally hurt
+HYP: mm and does it hurt uh how far into the run does it generally hurt
+OPS:  I   N    N  N    N  N   N   N    N   N   N    N  N         N    N
+
+sentence 324
+REF: ok ooh youre fast um
+HYP: ok  oh youre fast **
+OPS:  N   S     N    N  D
+
+sentence 327
+REF: and any problems with your left one
+HYP:  um any problems with your left one
+OPS:   S   N        N    N    N    N   N
+
+sentence 328
+REF: ok and can you just describe in the knee or show me whereabouts the pain is happening mainly
+HYP: ok *** can you just describe in the knee or show me whereabouts the pain is happening mainly
+OPS:  N   D   N   N    N        N  N   N    N  N    N  N           N   N    N  N         N      N
+
+sentence 330
+REF: ok * does it look swollen to you
+HYP: ok d does it look swollen to you
+OPS:  N I    N  N    N       N  N   N
+
+sentence 335
+REF: and ** intervals of range of movement are you able to fully straighten the leg
+HYP: and in     terms of range of movement are you able to fully straighten the leg
+OPS:   N  I         S  N     N  N        N   N   N    N  N     N          N   N   N
+
+sentence 337
+REF: ok   i are you in a private place where you can have a consultation today
+HYP: ok are are you in a private place where you can have a consultation today
+OPS:  N   S   N   N  N N       N     N     N   N   N    N N            N     N
+
+sentence 339
+REF: ok and any other joint problems that youre getting any back pains small swelling of your hands feet elbows wrists any pain
+HYP: ok and any other joint problems that youre getting any back  pain small swelling of your hands feet elbows wrists any pain
+OPS:  N   N   N     N     N        N    N     N       N   N    N     S     N        N  N    N     N    N      N      N   N    N
+
+sentence 341
+REF: any change in colour or temperature of your lower legs
+HYP: any change in  color or temperature of your lower legs
+OPS:   N      N  N      S  N           N  N    N     N    N
+
+sentence 344
+REF: um and with your foot has that gone back to normal now ** do you feel any altered senstation tingling numbness anything like that
+HYP: um and with your foot has that gone back to normal now or do you feel any altered  sensation tingling numbness anything like that
+OPS:  N   N    N    N    N   N    N    N    N  N      N   N  I  N   N    N   N       N          S        N        N        N    N    N
+
+sentence 345
+REF: ok and any pain in the joints of your foot or ** on the underside in the arch any problems walking  round on hard floors
+HYP: ok and any pain in the joints of your foot or un on the underside in the arch any problems walking around on hard floors
+OPS:  N   N   N    N  N   N      N  N    N    N  N  I  N   N         N  N   N    N   N        N       N      S  N    N      N
+
+sentence 350
+REF: ** and what i would suggest is definitely carrying on with the ice therapy that youve been using so as much as you can cause that really does make a difference to injuries
+HYP: ok  um what i would suggest is definitely carrying on with the ice therapy that youve been using so as much as you can cause that really does make a difference to injuries
+OPS:  I   S    N N     N       N  N          N        N  N    N   N   N       N    N     N    N     N  N  N    N  N   N   N     N    N      N    N    N N          N  N        N
+
+sentence 352
+REF: um obviously youre trying to stick to a marathon programme but
+HYP: um obviously youre trying to stick to a marathon   program but
+OPS:  N         N     N      N  N     N  N N        N         S   N
+
+sentence 354
+REF: um its fine to take the ibuprofen um i can prescribe you a slightly stronger             anti inflammatory that you can take regularly instead of the ibuprofen but not with the ibuprofen
+HYP: um its fine to take the ibuprofen um i can prescribe you a slightly stronger antiinflammatory ************ that you can take regularly instead of the ibuprofen but not with the ibuprofen
+OPS:  N   N    N  N    N   N         N  N N   N         N   N N        N        N                S            D    N   N   N    N         N       N  N   N         N   N   N    N   N         N
+
+sentence 355
+REF: but make sure that with food ** ultimately we probably need to examine the knee
+HYP: but make sure that with food um ultimately we probably need to examine the knee
+OPS:   N    N    N    N    N    N  I          N  N        N    N  N       N   N    N
+
+sentence 356
+REF: um so the best thing i would suggest getting  a appointment with the physiotherapist first who can do like a long assessment and examination of the knee
+HYP: um so the best thing i would suggest getting an appointment with the physiotherapist first you can do like a long assessment and examination of the knee
+OPS:  N  N   N    N     N N     N       N       N  S           N    N   N               N     N   S   N  N    N N    N          N   N           N  N   N    N
+
+sentence 357
+REF: and then we can make an assessment as to whether we need to do any um imagery to have a look inside  the knee and see if theres any problem with the cartilage
+HYP: and then ** *** make an assessment as to whether we need to do any um imagery to have a look inside your knee and see if theres any problem with the cartilage
+OPS:   N    N  D   D    N  N          N  N  N       N  N    N  N  N   N  N       N  N    N N    N      N    S    N   N   N  N      N   N       N    N   N         N
+
+sentence 359
+REF: um its its not really possible to diagnose that over the ***** over the video so we definitely would need to see you and the a physio is the best point of call because theyll probably be the most likely initial treatment
+HYP: um its its not really possible to diagnose that over the phone over the video so we definitely would need to see you  um the a physio is the best point of call because thatll probably be the most likely initial treatment
+OPS:  N   N   N   N      N        N  N        N    N    N   N     I    N   N     N  N  N          N     N    N  N   N   N   S   N N      N  N   N    N     N  N    N       N      S        N  N   N    N      N       N         N
+
+sentence 360
+REF: but certainly if the appointment **** times too long to wait then we can see we can see you in our clinic as well
+HYP: but certainly if the appointment time    is too long to wait then we can see we can see you in *** ****** as well
+OPS:   N         N  N   N           N    I     S   N    N  N    N    N  N   N   N  N   N   N   N  N   D      D  N    N
+
+sentence 361
+REF: **** yep we can we can do a referral before that if in the meantime ** you develop like persistant swelling heat redness um of the knee or high temperature feel unwell or it completely locks up and you cant bend and stretch it
+HYP: yeah and we can we can do a referral    for that if in the meantime if you develop like persistent swelling heat redness um of the knee or high temperature feel unwell or it completely locks up and you cant bend and stretch it
+OPS:    I   S  N   N  N   N  N N        N      S    N  N  N   N        N  I   N       N    N          S        N    N       N  N  N   N    N  N    N           N    N      N  N  N          N     N  N   N   N    N    N   N       N  N
+
+sentence 362
+REF: then youd need to see a doctor urgently so call us back * in that case **
+HYP: then  you need to see a doctor urgently so call us back i in that case ok
+OPS:    N    S    N  N   N N      N        N  N    N  N    N I  N    N    N  I
+
+sentence 368
+REF: so im training well im currently training for a marathon um thats gonna happen in june and so im trying to run like
+HYP: so im training well im currently training for a marathon um   its gonna happen in june and so im trying to run like
+OPS:  N  N        N    N  N         N        N   N N        N  N     S     N      N  N    N   N  N  N      N  N   N    N
+
+sentence 371
+REF: and then uh uh and then you know i go to the gym like   few times a week and **** kinda do my usual routine
+HYP: and then uh uh and then you know i go to the gym like three times a week and kind    of do my usual routine
+OPS:   N    N  N  N   N    N   N    N N  N  N   N   N    N     S     N N    N   N    I     S  N  N     N       N
+
+sentence 373
+REF: um well i what do you mean by that im not sure what what that means
+HYP: um well i what do you mean by that im not sure what what   it means
+OPS:  N    N N    N  N   N    N  N    N  N   N    N    N    N    S     N
+
+sentence 374
+REF: not not  bad i mean it just kinda starts hurting you know um
+HYP: not not that i mean it just kinda starts hurting you know um
+OPS:   N   N    S N    N  N    N     N      N       N   N    N  N
+
+sentence 375
+REF: you know i would say ** probably starts off like after uh maybe twenty minutes or so which is probably i dont know like somewhere around mile three maybe    two  and a half or three miles
+HYP: you know i would say it probably starts *** like after uh maybe twenty minutes or so which is probably i dont know like somewhere around mile three maybe twenty five * **** or three miles
+OPS:   N    N N     N   N  I        N      N   D    N     N  N     N      N       N  N  N     N  N        N N    N    N    N         N      N    N     N     N      S    S D    D  N     N     N
+
+sentence 376
+REF: yes my name is mary jo ** date of birth is january *** *** ********* ****   first nineteen eighty
+HYP: yes my name is mary jo my date of birth is january 1st one thousand, nine hundred      and eighty
+OPS:   N  N    N  N    N  N  I    N  N     N  N       N   I   I         I    I       S        S      N
+
+sentence 377
+REF: *** ** ** ** switching my kilometres and miles im not sure   all right
+HYP: are we uh im switching my kilometers  in miles im not sure sorry *****
+OPS:   I  I  I  I         N  N          S   S     N  N   N    N     S     D
+
+sentence 379
+REF: um and when i start doing my abs thats you know when i do my abs its kind of requiring me to move my you know um to kind of go from the flex position on my knees and straighten my legs then i feel all  this clicking
+HYP: um and when i start doing my abs  that you know when i do my abs  it kind of   require me to move my you know um to kind of go from the flex position of my knees and straighten my legs then i hear all these clicking
+OPS:  N   N    N N     N     N  N   N     S   N    N    N N  N  N   N   S    N  N         S  N  N    N  N   N    N  N  N    N  N  N    N   N    N        N  S  N     N   N          N  N    N    N N    S   N     S        N
+
+sentence 380
+REF: and i think thats also freaked me out and   uh i just figured you know somethings wrong here
+HYP: and i think thats also freaked me out and then i just figured you know somethings wrong here
+OPS:   N N     N     N    N       N  N   N   N    S N    N       N   N    N          N     N    N
+
+sentence 382
+REF: so ah you know i i feel it its kind of weird i feel it in the middle but i almost feel like maybe it kind of uh um moves to the right to the right of my knee a little bit
+HYP: so uh you know i i feel it its kind of weird i feel it in the middle but i almost feel like maybe it kind of uh um moves to the right to the right of my knee a little bit
+OPS:  N  S   N    N N N    N  N   N    N  N     N N    N  N  N   N      N   N N      N    N    N     N  N    N  N  N  N     N  N   N     N  N   N     N  N  N    N N      N   N
+
+sentence 385
+REF: and my address is uh sixty sloane avenue london
+HYP: and my address is um sixty  sloan avenue london
+OPS:   N  N       N  N  S     N      S      N      N
+
+sentence 387
+REF: um but it just kind of comes on when uh um or you know right now when i flex and extend my leg it theres no clicking but ill notice it in the gym and then you know when i run ** itll start hurting
+HYP: um but it just kind of comes on when uh um or you know right now when i flex and extend my leg it theres no clicking but ill notice it in the gym and then you know when i run it will start hurting
+OPS:  N   N  N    N    N  N     N  N    N  N  N  N   N    N     N   N    N N    N   N      N  N   N  N      N  N        N   N   N      N  N  N   N   N   N    N   N    N    N N   N  I    S     N       N
+
+sentence 388
+REF: no none i dont
+HYP: no   no i dont
+OPS:  N    S N    N
+
+sentence 389
+REF: well um since youre asking um yes i i take ibuprofen um and ill just **** kinda use it sometime like uh um like sometimes i have some joint issues but you know that kind of is not very frequent so ill take ibuprofen for that
+HYP: well um since youre asking um yes i i take ibuprofen um and ill just kind    of use it sometime like uh um like sometimes i have some joint issues but you know that kind of is not very frequent so ill take ibuprofen for that
+OPS:    N  N     N     N      N  N   N N N    N         N  N   N   N    N    I     S   N  N        N    N  N  N    N         N N    N    N     N      N   N   N    N    N    N  N  N   N    N        N  N   N    N         N   N    N
+
+sentence 390
+REF: but you know its nothing like major maybe like four hundred milligrams max something like that
+HYP: but you know its nothing like major maybe like four hundred         mg max something like that
+OPS:   N   N    N   N       N    N     N     N    N    N       N          S   N         N    N    N
+
+sentence 391
+REF: i also sometimes will um you know smoke a joint
+HYP: i also sometimes will uh you know smoke a joint
+OPS: N    N         N    N  S   N    N     N N     N
+
+sentence 393
+REF: uh well i have sometimes you know how sometimes like if you stand for a long time your feet will kinda or your legs will swell up like i noticed it because of my socks ill just kind of notice this indentation
+HYP: uh well i have sometimes you know how sometimes like if you stand for a long time your feet will kinda or your legs will swell up like i noticed it because of my socks ill just kind of notice this         ins
+OPS:  N    N N    N         N   N    N   N         N    N  N   N     N   N N    N    N    N    N    N     N  N    N    N    N     N  N    N N       N  N       N  N  N     N   N    N    N  N      N    N           S
+
+sentence 394
+REF: and then another weird thing ive felt this just once but there was this tingling in my toes like uh um after the run
+HYP: and then another weird thing   i felt this just once but there was this tingling in my toes like uh um after the run
+OPS:   N    N       N     N     N   S    N    N    N    N   N     N   N    N        N  N  N    N    N  N  N     N   N   N
+
+sentence 396
+REF: well i dont know if i really   try that but i i will tell you that what i noticed is like if i you know when my socks come off i kind of notice that indentation a little bit i mean its not like major right but i uh i mean do you mean i just need to like press and see what happens if it like kind of stays or *****
+HYP: well i dont know if i really tried that but i i will tell you that what i noticed is like if i you know when my socks come off i kind of notice that indentation a little bit i mean its not like major right but i ** i mean do you mean i just need to like press and see what happens if it like kind of stays or relax
+OPS:    N N    N    N  N N      N     S    N   N N N    N    N   N    N    N N       N  N    N  N N   N    N    N  N     N    N   N N    N  N      N    N           N N      N   N N    N   N   N    N     N     N   N N  D N    N  N   N    N N    N    N  N    N     N   N   N    N       N  N  N    N    N  N     N  N     I
+
+sentence 399
+REF: so a couple of things i i * think i may have overdone my workouts and now my knees are hurting and theyre clicking a lot and its starting to worry me
+HYP: so a couple of things i i i think i may have overdone my workouts and now my knees are hurting and theyre clicking a lot and its starting to worry me
+OPS:  N N      N  N      N N N I     N N   N    N        N  N        N   N   N  N     N   N       N   N      N        N N   N   N   N        N  N     N  N
+
+sentence 401
+REF: you know what just kind of your garden variety stuff right colds and uh i mean i i do have im        far sighted and so i had uh i had lasik surgery
+HYP: you know **** just kind of your garden variety stuff right colds and uh i mean i i do have im farsighted ******* and so i had uh i had lasik surgery
+OPS:   N    N    D    N    N  N    N      N       N     N     N     N   N  N N    N N N  N    N  N          S       D   N  N N   N  N N   N     N       N
+
+sentence 402
+REF: and then once i had this really bad ** uti they thought it was kidney stones and so they had me actually in er
+HYP: and then once i had this really bad ut   i they thought it was kidney stones and so they had me actually in er
+OPS:   N    N    N N   N    N      N   N  I   S    N       N  N   N      N      N   N  N    N   N  N        N  N  N
+
+sentence 404
+REF: um that was kind of an   awful experience but uh other than that you know im im im pretty good
+HYP: um that was kind of an awesome experience but uh other than that you know im im im pretty good
+OPS:  N    N   N    N  N  N       S          N   N  N     N    N    N   N    N  N  N  N      N    N
+
+sentence 406
+REF: uh i take melatonin sometimes you know just for cramps ill take like uh um ibuprofen or actually *** uh ill take what am i taking aleve whatever aleve is
+HYP: uh i take melatonin sometimes you know just for cramps ill take like uh um ibuprofen or actually ace uh ill take what am i taking aleve whatever aleve is
+OPS:  N N    N         N         N   N    N    N   N      N   N    N    N  N  N         N  N        N   I  N   N    N    N  N N      N     N        N     N  N
+
+sentence 407
+REF: um i cant run very far um     any more without just feeling pain in my knees
+HYP: um i cant run very far um anymore **** without just feeling pain in my knees
+OPS:  N N    N   N    N   N  N       S    D       N    N       N    N  N  N     N
+
+sentence 411
+REF: well you know i read i read some stuff online that that maybe like my ligaments theres i think its like ** acl or or something like that right and so if that i mean im kind of like freaked out that that may break
+HYP: well you know i read i read some stuff online that that maybe like my ligaments theres i think its like ac   l or or something like that right and so if that i mean im kind of like freaked out that that may break
+OPS:    N   N    N N    N N    N    N     N      N    N    N     N    N  N         N      N N     N   N    N  I   S  N  N         N    N    N     N   N  N  N    N N    N  N    N  N    N       N   N    N    N   N     N
+
+sentence 415
+REF: that sounds good thank you yeah ****** sure i mean give me the stronger **** medicine ill give that a try
+HYP: that sounds good thank you yeah please sure i mean give me the stronger meds      and ill give that a try
+OPS:    N      N    N     N   N    N      I    N N    N    N  N   N        N    I        S   N    N    N N   N
+
+sentence 416
+REF: ok sweet thanks so much ok bye bye
+HYP: ** sweet thanks so much ok bye bye
+OPS:  D     N      N  N    N  N   N   N
+
+sentence 419
+REF: hi there its doctor smith from babylon
+HYP: hi there its doctor smith from     lyn
+OPS:  N     N   N      N     N    N       S
+
+sentence 420
+REF: how are you doing good thank you can you confirm your name date of birth and your home address please
+HYP:  im *** *** ***** good thank you can you confirm your name date of birth and your home address please
+OPS:   S   D   D     D    N     N   N   N   N       N    N    N    N  N     N   N    N    N       N      N
+
+sentence 422
+REF: ok and uh sorry
+HYP: ok and uh    so
+OPS:  N   N  N     S
+
+sentence 424
+REF: any any funny lights or anything like that in your vision area any problems when you look into the light
+HYP: any any funny lights or anything like that in your ****** area any problems when you look into the light
+OPS:   N   N     N      N  N        N    N    N  N    N      D    N   N        N    N   N    N    N   N     N
+
+sentence 426
+REF: ** are you feeling sick or vomiting or anything
+HYP: uh are you feeling sick or vomiting or anything
+OPS:  I   N   N       N    N  N        N  N        N
+
+sentence 427
+REF: any high fevers are you feeling shivery sweaty
+HYP: any high  fever *** you feeling shivery sweaty
+OPS:   N    N      S   D   N       N       N      N
+
+sentence 429
+REF: and in the past have you had any  headache before
+HYP: and in the past have you had any headaches before
+OPS:   N  N   N    N    N   N   N   N         S      N
+
+sentence 431
+REF: ok and have you taken any        pain killers
+HYP: ok and have you taken any painkillers *******
+OPS:  N   N    N   N     N   N           S       D
+
+sentence 433
+REF: ** and last night did you manage to sleep through the night ok
+HYP: ok and last night did you manage to sleep through the night ok
+OPS:  I   N    N     N   N   N      N  N     N       N   N     N  N
+
+sentence 439
+REF: thats fine and any stomach problems or asthma at all
+HYP: ***** **** and any stomach problems or asthma at all
+OPS:     D    D   N   N       N        N  N      N  N   N
+
+sentence 442
+REF: ** and have you had your blood pressure checked
+HYP: ok and have you had your    bp ******** checked
+OPS:  I   N    N   N   N    N     S        D       N
+
+sentence 450
+REF: no ok um i mean the fact that you havent had headaches before um is is unusual the fact that theyve developed is there anything you thinks changed any increased stress ** change in your diet or lifestyle
+HYP: no ok um i mean the fact that you havent had headaches before um is is unusual the fact that theyve developed is there anything you thinks changed any increased stress or change in your diet or lifestyle
+OPS:  N  N  N N    N   N    N    N   N      N   N         N      N  N  N  N       N   N    N    N      N         N  N     N        N   N      N       N   N         N      N  I      N  N    N    N  N         N
+
+sentence 453
+REF: uh so similar to ibuprofen but taking ** instead of ibuprofen not at the same time and taking that regularly with food
+HYP: um so similar to ibuprofen but taking it instead of ibuprofen not at the same time and taking that regularly with food
+OPS:  S  N       N  N         N   N      N  I       N  N         N   N  N   N    N    N   N      N    N         N    N    N
+
+sentence 455
+REF: try and um take rest have lots of good ********* hydrationum but if the **** pains getting worse or you get new symptoms fever rash vomiting neck stiffness
+HYP: try and um take rest have lots of good hydration          um but if the pain    is getting worse or you get new symptoms fever rash vomiting neck stiffness
+OPS:   N   N  N    N    N    N    N  N    N         I           S   N  N   N    I     S       N     N  N   N   N   N        N     N    N        N    N         N
+
+sentence 456
+REF: um or you keep getting episodes of the same type of thing then we need to speak to you and and make a plan for for what we can do next
+HYP: um or you keep getting episodes of the same type of thing then we need to speak to you and and make a plan for *** what we can do next
+OPS:  N  N   N    N       N        N  N   N    N    N  N     N    N  N    N  N     N  N   N   N   N    N N    N   N   D    N  N   N  N    N
+
+sentence 457
+REF: well i should think it should ** down if its getting worse or not settling in the next day or two
+HYP: well i should think it should go down if its getting worse or not settling in the next day or two
+OPS:    N N      N     N  N      N  I    N  N   N       N     N  N   N        N  N   N    N   N  N   N
+
+sentence 458
+REF: then certainly give us a call back if when youve tried the medication that ive prescribed from the pharmacy
+HYP: then certainly give us a call back if when   you tried the medication that   i prescribed from the pharmacy
+OPS:    N         N    N  N N    N    N  N    N     S     N   N          N    N   S          N    N   N        N
+
+sentence 461
+REF: ok can you just tell me ***** whereabouts in your head it is
+HYP: ok can you just tell me where      abouts in your head it is
+OPS:  N   N   N    N    N  N     I           S  N    N    N  N  N
+
+sentence 462
+REF: ok ** just on the left side
+HYP: ok ok just on the left side
+OPS:  N  I    N  N   N    N    N
+
+sentence 463
+REF: and when did it start what time of day did it start yesterday
+HYP:  um when did it start what time of day did it start yesterday
+OPS:   S    N   N  N     N    N    N  N   N   N  N     N         N
+
+sentence 465
+REF: hey how are you
+HYP:  hi how are you
+OPS:   S   N   N   N
+
+sentence 466
+REF: um just quite intense and **** kinda quite throbbing it kind of built up gradually after over
+HYP: um just quite intense and kind    of quite throbbing it kind of built up gradually ***** over
+OPS:  N    N     N       N   N    I     S     N         N  N    N  N     N  N         N     D    N
+
+sentence 469
+REF: no nothing like that **
+HYP: no nothing like that so
+OPS:  N       N    N    N  I
+
+sentence 471
+REF: no no fever no ***
+HYP: no no fever no chi
+OPS:  N  N     N  N   I
+
+sentence 477
+REF: um im twenty eight and i live at apartment four *******  oh five   nine c clerkenwell road
+HYP: um im twenty eight and i live at apartment four hundred and five ninety k *********** road
+OPS:  N  N      N     N   N N    N  N         N    N       I   S    N      S S           D    N
+
+sentence 478
+REF: no * only the nurofen i took yesterday ibuprofen
+HYP: no i need the nurofen i took yesterday ibuprofen
+OPS:  N I    S   N       N N    N         N         N
+
+sentence 487
+REF: its on the left side at the back sort of  here
+HYP: its on the left side at the back sort of there
+OPS:   N  N   N    N    N  N   N    N    N  N     S
+
+number of sentences: 487
+substitutions=256 deletions=78 insertions=198 hits=6816
+
+mer=7.24%
+wil=10.62%
+wip=89.38%
+wer=7.44%

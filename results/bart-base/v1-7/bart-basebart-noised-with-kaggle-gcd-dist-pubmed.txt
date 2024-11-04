@@ -1,0 +1,3 @@
+bart-basebart-noised-with-kaggle-gcd-dist-pubmed
+baseline wer: 0.2182104829414821
+wer: 0.10045206714719951

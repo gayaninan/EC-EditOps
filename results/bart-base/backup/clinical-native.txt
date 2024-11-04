@@ -1,0 +1,3 @@
+clinical-native
+baseline wer: 0.1042292128964887
+wer: 0.11434538571987991

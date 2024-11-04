@@ -1,0 +1,14 @@
+transformers[torch]
+torch
+datasets
+sacremoses
+evaluate
+nltk
+rouge_score
+huggingface_hub
+wandb
+jiwer
+git-lfs
+accelerate
+scikit-learn
+pronouncing

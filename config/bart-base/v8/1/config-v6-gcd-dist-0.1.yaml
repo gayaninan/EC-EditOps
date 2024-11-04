@@ -1,0 +1,35 @@
+seed: 42
+#finetune
+pubmed_datapath: "gayanin/pubmed-abstracts-noised-with-gcd-dist"
+subset: "prob-01"
+pretrained_modelname: "facebook/bart-base"
+batch_size: 32
+colname: "trans"
+checkpoint_dir: "./ec-model1"
+overwrite_output_dir: True
+evaluation_strategy: "steps"
+save_strategy: "steps"
+num_train_epochs: 3
+per_device_train_batch_size: 16
+per_device_eval_batch_size: 16
+eval_steps: 500
+save_steps: 500
+warmup_steps: 10
+logging_steps: 10
+logging_dir: "./logs"
+push_to_hub: True
+fine_tuned_model: "gayanin/bart-noised-with-gcd-dist-0.1"
+fp16: True
+load_best_model_at_end: True
+save_total_limit: 5
+##generate
+generate_dir: "model_outputs/bart-base/v8/1/" 
+gcd_datapath: "gayanin/gcd-native-v8"
+babylon_datapath: "gayanin/babylon-native-v8"
+kaggle_datapath: "gayanin/kaggle-native-v8"
+max_length: 256
+num_return_sequences: 1
+no_repeat_ngram_size: 2
+##testing
+eval_dir: "results/bart-base/v8/1/"
+baseline: True

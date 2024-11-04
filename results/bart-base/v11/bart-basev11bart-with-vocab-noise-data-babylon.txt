@@ -1,0 +1,3 @@
+bart-basev11bart-with-vocab-noise-data-babylon
+baseline wer: 0.09328671328671329
+wer: 0.08825174825174825

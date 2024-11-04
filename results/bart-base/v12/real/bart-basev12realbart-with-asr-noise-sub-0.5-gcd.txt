@@ -1,0 +1,3 @@
+bart-basev12realbart-with-asr-noise-sub-0.5-gcd
+baseline wer: 0.2135593220338983
+wer: 0.37457627118644066

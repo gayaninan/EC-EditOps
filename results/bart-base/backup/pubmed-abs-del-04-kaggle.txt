@@ -1,0 +1,3 @@
+pubmed-abs-del-04-kaggle
+baseline wer: 0.40061289672834
+wer: 0.45125600667568266

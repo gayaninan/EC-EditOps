@@ -1,0 +1,3 @@
+bart-basebart-noised-with-all-data-kaggle
+baseline wer: 0.11440922190201729
+wer: 0.09337175792507205

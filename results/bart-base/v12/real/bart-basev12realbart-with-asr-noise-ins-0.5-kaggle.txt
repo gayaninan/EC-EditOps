@@ -1,0 +1,3 @@
+bart-basev12realbart-with-asr-noise-ins-0.5-kaggle
+baseline wer: 0.10254175744371823
+wer: 0.10762527233115468

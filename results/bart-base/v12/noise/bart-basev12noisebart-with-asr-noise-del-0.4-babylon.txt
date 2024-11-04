@@ -1,0 +1,3 @@
+bart-basev12noisebart-with-asr-noise-del-0.4-babylon
+baseline wer: 0.3955244755244755
+wer: 0.37944055944055943

@@ -1,0 +1,3 @@
+bart-basev12noisebart-with-asr-noise-ins-0.5-kaggle
+baseline wer: 0.5061481269659708
+wer: 0.00328853302830998

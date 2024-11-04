@@ -1,0 +1,3 @@
+pubmed-abs-ins-con-04-pubmed
+baseline wer: 0.28031746221327775
+wer: 0.016524039581255635

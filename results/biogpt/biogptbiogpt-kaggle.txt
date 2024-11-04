@@ -1,0 +1,3 @@
+biogptbiogpt-kaggle
+baseline wer: 0.08770465859062528
+wer: 2.8338848444738582

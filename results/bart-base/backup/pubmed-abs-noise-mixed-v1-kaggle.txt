@@ -1,0 +1,3 @@
+pubmed-abs-noise-mixed-v1-kaggle
+baseline wer: 0.08770465859062528
+wer: 0.18865997180099559

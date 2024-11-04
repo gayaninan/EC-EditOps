@@ -1,0 +1,3 @@
+bart-med-term-mlm-kaggle
+baseline wer: 0.08770465859062528
+wer: 0.09019365234656002

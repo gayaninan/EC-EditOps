@@ -1,0 +1,3 @@
+bart-basev10bart-with-pubmed-asr-noise-data-0.1-v2-gcd
+baseline wer: 0.2135593220338983
+wer: 0.3610169491525424

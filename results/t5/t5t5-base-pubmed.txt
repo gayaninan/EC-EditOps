@@ -1,0 +1,3 @@
+t5t5-base-pubmed
+baseline wer: 0.0913987805533493
+wer: 1.0001791547478993

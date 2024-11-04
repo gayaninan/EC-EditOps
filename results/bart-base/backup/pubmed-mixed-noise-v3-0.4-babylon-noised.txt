@@ -1,0 +1,3 @@
+pubmed-mixed-noise-v3-0.4-babylon-noised
+baseline wer: 0.4021894895106538
+wer: 0.34700589658655767

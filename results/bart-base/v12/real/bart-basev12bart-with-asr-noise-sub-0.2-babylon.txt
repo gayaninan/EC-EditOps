@@ -1,0 +1,3 @@
+bart-basev12bart-with-asr-noise-sub-0.2-babylon
+baseline wer: 0.07810026385224274
+wer: 0.10659630606860158

@@ -1,0 +1,3 @@
+bart-basebart-noised-with-gcd-babylon-dist-kaggle
+baseline wer: 0.08770465859062528
+wer: 0.09875406439731822

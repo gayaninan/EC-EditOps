@@ -1,0 +1,3 @@
+pubmed-abs-noise-mixed-v2-pubmed
+baseline wer: 0.49482787453116417
+wer: 0.2968119161948446

@@ -1,0 +1,3 @@
+pubmed-abs-ins-01-kaggle
+baseline wer: 0.10150202860184732
+wer: 0.016732368428624866

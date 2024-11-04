@@ -1,0 +1,3 @@
+bart-large-pubmed
+baseline wer: 0.49482787453116417
+wer: 0.5850175589478965

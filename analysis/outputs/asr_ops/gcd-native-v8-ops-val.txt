@@ -1,0 +1,127 @@
+sentence 1
+REF: okay and  so just tell  me i know ***** you     are on adalimumab and   how  it  has been for you
+HYP: okay and she just tell mae i know youre  on adeline  a        mat and harry has that bean for you
+OPS:    N   N   S    N    N   S N    N     I   S       S  S          S   N     S   S    S    S   N   N
+
+sentence 2
+REF: so initially i felt that      the adalimumab really made a big improvement ** kind of get my life back yeah now its i think its wearing off
+HYP: so initially i felt  the absolute        ive really made a big improvement on kind of get my wife back yeah now its i think its wearing all
+OPS:  N         N N    N    S        S          S      N    N N   N           N  I    N  N   N  N    S    N    N   N   N N     N   N       N   S
+
+sentence 4
+REF: yeah   im good at taking it i always take it at every fortnight
+HYP:    i take **** ** ****** it i always  say ** ** every fortnight
+OPS:    S    S    D  D      D  N N      N    S  D  D     N         N
+
+sentence 5
+REF: okay ** ** and any abdominal pain
+HYP: okay on dh  in the abdominal  pin
+OPS:    N  I  I   S   S         N    S
+
+sentence 6
+REF: yeah i do get some pain but ive  had that for quite a long time now
+HYP: yeah i do get some pain but   i held  out for quite a long time now
+OPS:    N N  N   N    N    N   N   S    S    S   N     N N    N    N   N
+
+sentence 7
+REF: its been getting any ****   worse recently
+HYP: iss been getting any more smoking      lee
+OPS:   S    N       N   N    I       S        S
+
+sentence 9
+REF: so ive got arthritis **** and hay fever  and asthma as well
+HYP: so ive got arthritis isnt  on hay fever xmas ****** ** well
+OPS:  N   N   N         N    I   S   N     N    S      D  D    N
+
+sentence 10
+REF: okay and  are   you on any medications for those things
+HYP:   ok and they youre on any medications are those things
+OPS:    S   N    S     S  N   N           N   S     N      N
+
+sentence 11
+REF: just *** ansaid for my arthritis
+HYP: just end   sets for my arthritis
+OPS:    N   I      S   N  N         N
+
+sentence 12
+REF: okay are you taking those ******* regularly  or
+HYP: okay are you taking those regular      they are
+OPS:    N   N   N      N     N       I         S   S
+
+sentence 13
+REF: just kind of      as when i need them i dont really like taking them
+HYP: just kind of awesome when i need them i dont really like taking them
+OPS:    N    N  N       S    N N    N    N N    N      N    N      N    N
+
+sentence 14
+REF: sure okay ** ** and do you have any sort of questions at the moment as to what might be going on or
+HYP: here okay um ah nde do you have any sort of questions at the moment as to what might be going on or
+OPS:    S    N  I  I   S  N   N    N   N    N  N         N  N   N      N  N  N    N     N  N     N  N  N
+
+sentence 15
+REF: what do you  think is causing my symptoms of the moment
+HYP: what do you thinks ** causing my symptoms ** *** moment
+OPS:    N  N   N      S  D       N  N        N  D   D      N
+
+sentence 16
+REF: so theres a few different things that could be going on one of them could be that as you sort of alluded to   yourself that you might be coming your bodys not responding as well to the ***** adalimumab   so one of the things that well do today is  check the levels of the drug in your body to make sure that your  body is handling it as it should be it could also be that  your crohns disease is a bit more active than usual so one of the things that we can do for that is   check     up fecal calprotectin which   you will probably have had done before
+HYP: so theres a few different things that could be going on one of them could be that as you have ** alluded to yourselves that you might be coming your bodys not responding as well to the other   lindholm abso one of the things that well do today is cheque the levels of the drug in your body to make sure that your bodys ** handling it as it should be it could also be that youre croons disease is a bit more active than usual so one of the things that we can do for that as checkup faecal   cal    protected which youll **** probably have had done before
+OPS:  N      N N   N         N      N    N     N  N     N  N   N  N    N     N  N    N  N   N    S  D       N  N          S    N   N     N  N      N    N     N   N          N  N    N  N   N     I          S    S   N  N   N      N    N    N  N     N  N      S   N      N  N   N    N  N    N    N  N    N    N    N    N     S  D        N  N  N  N      N  N  N     N    N  N    N     S      S       N  N N   N    N      N    N     N  N   N  N   N      N    N  N   N  N   N    N  S       S      S     S            S     N     S    D        N    N   N    N      N
+
+sentence 17
+REF: ** and thats just a stool test to  check the inflammation we also need to send some samples off to make sure theres no infection there as well  and well do some bloods to make sure you  are not a knee make or needing any sort of         a placement of your electrolytes okay what how does that sound to you
+HYP: on  dh thats just a stool test to cheque for inflammation we also need to send some samples off to make sure theres no infection there as well andi will do some bloods to make sure you know any * **** make or needing any sort of policemen ********* of your electrolytes   um what how does that sound to you
+OPS:  I   S     N    N N     N    N  N      S   S            N  N    N    N  N    N    N       N   N  N    N    N      N  N         N     N  N    N    S    S  N    N      N  N    N    N   N    S   S D    D    N  N       N   N    N  N         S         D  N    N            N    S    N   N    N    N     N  N   N
+
+sentence 18
+REF: you know that sounds fine im just worried that ill need to change my medication and ive been getting    on quite well with the ** adalimumab
+HYP: you know that sounds fine ** just worried that ill need to change my medication *** ive been getting along quite well with the ad      alone
+OPS:   N    N    N      N    N  D    N       N    N   N    N  N      N  N          N   D   N    N       N     S     N    N    N   N  I          S
+
+sentence 19
+REF: so just a bit worried about that
+HYP: ** just a bit worried about that
+OPS:  D    N N   N       N     N    N
+
+sentence 21
+REF: okay i think well first of all get these basic investigations off it might be that we need to go on and get some more imaging of your abdomen in terms of * * mri scans or ct scans and also  do a camera test or a colonoscopy to have a look at the tail end but well start with the basic investigations first and then we can decide about medication after does that sound okay
+HYP: okay i think well first of all get these basic investigations off it might be that we need to go on and get some more imaging of your abdomen in terms of m r   i scans or ct scans and also dio * camera test or a colonoscopy to have a look at the tail end but well start with the basic investigations first and then we can decide about medication after does that sound okay
+OPS:    N N     N    N     N  N   N   N     N     N              N   N  N     N  N    N  N    N  N  N  N   N   N    N    N       N  N    N       N  N     N  N I I   S     N  N  N     N   N    N   S D      N    N  N N           N  N    N N    N  N   N    N   N   N    N     N    N   N     N              N     N   N    N  N   N      N     N          N     N    N    N     N    N
+
+sentence 22
+REF: yeah that sounds fine just ** also worried that i might need more surgery again
+HYP: yeah that sounds fine just or   so  boring that i might need more surgery again
+OPS:    N    N      N    N    N  I    S       S    N N     N    N    N       N     N
+
+sentence 23
+REF: okay what what makes you **** worried  about needing surgery in particular
+HYP: okay what what makes you what       a divine needing surgery in particular
+OPS:    N    N    N     N   N    I       S      S       N       N  N          N
+
+sentence 24
+REF: just took me quite a long time  to recover last time
+HYP: just took me quite a long time tio recover lost time
+OPS:    N    N  N     N N    N    N   S       N    S    N
+
+sentence 25
+REF: i just dont want more surgery
+HYP: i just dont want more   cider
+OPS: N    N    N    N    N       S
+
+sentence 26
+REF: well it usually is    a  last resort for the people with inflammatory bowel disease so well do what we can with medication and hopefully you respond there are things we can do with your ***** ****** adalimumab  to increase its  dose or increase the frequency as well so there there are definitely other options other than surgery at the moment
+HYP: well it usually is last years   work for *** people with inflammatory bowel disease so well do what we can with medication *** hopefully you respond there are things we can do with your other little        mob teo increase its doors or increase the frequency as well so ***** there are definitely other options other than surgery at the moment
+OPS:    N  N       N  N    S     S      S   N   D      N    N            N     N       N  N    N  N    N  N   N    N          N   D         N   N       N     N   N      N  N   N  N    N    N     I      I          S   S        N   N     S  N        N   N         N  N    N  N     D     N   N          N     N       N     N    N       N  N   N      N
+
+sentence 27
+REF: yeah that sounds  fine thank you
+HYP: yeah **** sounds break    it ***
+OPS:    N    D      N     S     S   D
+
+number of sentences: 27
+substitutions=82 deletions=25 insertions=19 hits=466
+
+mer=21.28%
+wil=33.16%
+wip=66.84%
+wer=21.99%

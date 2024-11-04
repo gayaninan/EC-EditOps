@@ -1,0 +1,3 @@
+bart-basev10bart-with-noise-data-gcd
+baseline wer: 0.2024432809773124
+wer: 0.16579406631762653

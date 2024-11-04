@@ -1,0 +1,3 @@
+bart-basev10bart-with-pubmed-noise-data-0.1-pubmed
+baseline wer: 0.08610794603270941
+wer: 0.042168387260543526
