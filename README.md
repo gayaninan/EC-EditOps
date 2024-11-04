@@ -1,5 +1,11 @@
 # Edit Distance Operations-Based Error Correction for Post-ASR Transcriptions
 
+## High-Level Approach
+
+This diagram illustrates the high-level approach used for edit distance operations-based error correction, focusing on insertions, deletions, and substitutions.
+
+![High-Level Approach](images/high-level-approach.jpg)
+
 ## Experiment Summary
 
 This work presents a comprehensive evaluation of the BART-base model's performance in correcting post-ASR transcription errors using various noising strategies based on three primary edit distance operations: insertions, deletions, and substitutions. The results reveal key insights into the model's strengths and limitations:
